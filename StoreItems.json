@@ -4218,6 +4218,162 @@
 		"category": "Hergestellt",
 		"defname": "RepairKit"
 	},
+	{
+		"abr": "barber'stable",
+		"price": 328,
+		"category": "Verschiedenes",
+		"defname": "VHE_TableBarber"
+	},
+	{
+		"abr": "armoredplate",
+		"price": 23,
+		"category": "Hergestellt",
+		"defname": "SadjuukArmoredPlate"
+	},
+	{
+		"abr": "asphaltconcrete",
+		"price": 7,
+		"category": "Hergestellt",
+		"defname": "SadjuukAsphaltConcrete"
+	},
+	{
+		"abr": "assemblyrobot",
+		"price": 1900,
+		"category": "Verschiedenes",
+		"defname": "SadjuukAssemblyRobot"
+	},
+	{
+		"abr": "basiccomponents",
+		"price": 6,
+		"category": "Hergestellt",
+		"defname": "SadjuukBasicComponent"
+	},
+	{
+		"abr": "concrete",
+		"price": 4,
+		"category": "Hergestellt",
+		"defname": "SadjuukConcrete"
+	},
+	{
+		"abr": "diesel",
+		"price": 18,
+		"category": "Hergestellt",
+		"defname": "SadjuukDiesel"
+	},
+	{
+		"abr": "fueloil",
+		"price": 458,
+		"category": "Hergestellt",
+		"defname": "SadjuukFuelOil"
+	},
+	{
+		"abr": "glass",
+		"price": 4,
+		"category": "Hergestellt",
+		"defname": "SadjuukGlass"
+	},
+	{
+		"abr": "grindingmachine",
+		"price": 692,
+		"category": "Verschiedenes",
+		"defname": "SadjuukGrinding"
+	},
+	{
+		"abr": "liquidhydrogen",
+		"price": 92,
+		"category": "Hergestellt",
+		"defname": "SadjuukHydrogen"
+	},
+	{
+		"abr": "metalgrid",
+		"price": 4,
+		"category": "Hergestellt",
+		"defname": "SadjuukMetalGrid"
+	},
+	{
+		"abr": "metallathe",
+		"price": 278,
+		"category": "Verschiedenes",
+		"defname": "SadjuukLathe"
+	},
+	{
+		"abr": "millingmachine",
+		"price": 692,
+		"category": "Verschiedenes",
+		"defname": "SadjuukMilling"
+	},
+	{
+		"abr": "portablefuelcellx",
+		"price": 2600,
+		"category": "Möbel",
+		"defname": "SadjuukGeneratorX"
+	},
+	{
+		"abr": "portablegeneratorv",
+		"price": 617,
+		"category": "Möbel",
+		"defname": "SadjuukGeneratorV"
+	},
+	{
+		"abr": "portablegeneratorw",
+		"price": 1358,
+		"category": "Möbel",
+		"defname": "SadjuukGeneratorW"
+	},
+	{
+		"abr": "shapertool",
+		"price": 205,
+		"category": "Verschiedenes",
+		"defname": "SadjuukShaper"
+	},
+	{
+		"abr": "solarcell",
+		"price": 12,
+		"category": "Hergestellt",
+		"defname": "SadjuukSolarCell"
+	},
+	{
+		"abr": "steelplate",
+		"price": 3,
+		"category": "Hergestellt",
+		"defname": "SadjuukSteelPlate"
+	},
+	{
+		"abr": "steeltube",
+		"price": 4,
+		"category": "Hergestellt",
+		"defname": "SadjuukSteelTube"
+	},
+	{
+		"abr": "syntheticpaint",
+		"price": 6,
+		"category": "Hergestellt",
+		"defname": "SadjuukSyntheticPaint"
+	},
+	{
+		"abr": "wallfirefoampopper",
+		"price": 177,
+		"category": "Möbel",
+		"defname": "SadjuukFirefoamPopper"
+	},
+	{
+		"abr": "weldingrobot",
+		"price": 1883,
+		"category": "Verschiedenes",
+		"defname": "SadjuukWeldingRobot"
+	},
+	{
+		"abr": "wire",
+		"price": 1,
+		"category": "Hergestellt",
+		"defname": "SadjuukWire"
+	},
+	{
+		"abr": "woodenpallet",
+		"price": 10,
+		"category": "Möbel",
+		"defname": "SadjuukWoodenPallet"
+	}
 	],
-	"total": 895
+	"total": 964
 }
