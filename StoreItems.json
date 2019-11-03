@@ -4225,155 +4225,977 @@
 		"defname": "VHE_TableBarber"
 	},
 	{
-		"abr": "armoredplate",
-		"price": 23,
-		"category": "Hergestellt",
-		"defname": "SadjuukArmoredPlate"
+		"abr": "bed",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "RGK_bedSingle"
 	},
 	{
-		"abr": "asphaltconcrete",
-		"price": 7,
-		"category": "Hergestellt",
-		"defname": "SadjuukAsphaltConcrete"
+		"abr": "bed2",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "RGK_bedSingleB"
 	},
 	{
-		"abr": "assemblyrobot",
-		"price": 1900,
+		"abr": "bench",
+		"price": 358,
+		"category": "Möbel",
+		"defname": "GL_Bench"
+	},
+	{
+		"abr": "bonfire",
+		"price": 417,
+		"category": "Möbel",
+		"defname": "GL_Bonfire"
+	},
+	{
+		"abr": "bookshelf",
+		"price": 908,
 		"category": "Verschiedenes",
-		"defname": "SadjuukAssemblyRobot"
+		"defname": "GL_Bookshelf"
 	},
 	{
-		"abr": "basiccomponents",
-		"price": 6,
-		"category": "Hergestellt",
-		"defname": "SadjuukBasicComponent"
+		"abr": "bowl",
+		"price": 104,
+		"category": "Möbel",
+		"defname": "RGK_DogBowl"
 	},
 	{
-		"abr": "concrete",
-		"price": 4,
-		"category": "Hergestellt",
-		"defname": "SadjuukConcrete"
+		"abr": "celticrug",
+		"price": 304,
+		"category": "Möbel",
+		"defname": "RugA_Small"
 	},
 	{
-		"abr": "diesel",
-		"price": 18,
-		"category": "Hergestellt",
-		"defname": "SadjuukDiesel"
+		"abr": "celticrug",
+		"price": 304,
+		"category": "Möbel",
+		"defname": "RugB_Small"
 	},
 	{
-		"abr": "fueloil",
-		"price": 458,
-		"category": "Hergestellt",
-		"defname": "SadjuukFuelOil"
+		"abr": "celticrug",
+		"price": 304,
+		"category": "Möbel",
+		"defname": "RugC_Small"
 	},
 	{
-		"abr": "glass",
-		"price": 4,
-		"category": "Hergestellt",
-		"defname": "SadjuukGlass"
+		"abr": "celticrug",
+		"price": 400,
+		"category": "Möbel",
+		"defname": "RugA"
 	},
 	{
-		"abr": "grindingmachine",
+		"abr": "celticrug",
+		"price": 400,
+		"category": "Möbel",
+		"defname": "RugB"
+	},
+	{
+		"abr": "celticrug",
+		"price": 400,
+		"category": "Möbel",
+		"defname": "RugC"
+	},
+	{
+		"abr": "celticrug",
+		"price": 500,
+		"category": "Möbel",
+		"defname": "RugA_Large"
+	},
+	{
+		"abr": "celticrug",
+		"price": 500,
+		"category": "Möbel",
+		"defname": "RugB_Large"
+	},
+	{
+		"abr": "celticrug",
+		"price": 500,
+		"category": "Möbel",
+		"defname": "RugC_Large"
+	},
+	{
+		"abr": "celtictable(2x1)",
+		"price": 367,
+		"category": "Möbel",
+		"defname": "RGK_TableE"
+	},
+	{
+		"abr": "celtictable(2x2)",
+		"price": 392,
+		"category": "Möbel",
+		"defname": "RGK_TableB"
+	},
+	{
+		"abr": "celtictable(2x2)",
+		"price": 392,
+		"category": "Möbel",
+		"defname": "RGK_TableD"
+	},
+	{
+		"abr": "celtictable(2x2)",
 		"price": 692,
-		"category": "Verschiedenes",
-		"defname": "SadjuukGrinding"
-	},
-	{
-		"abr": "liquidhydrogen",
-		"price": 92,
-		"category": "Hergestellt",
-		"defname": "SadjuukHydrogen"
-	},
-	{
-		"abr": "metalgrid",
-		"price": 4,
-		"category": "Hergestellt",
-		"defname": "SadjuukMetalGrid"
-	},
-	{
-		"abr": "metallathe",
-		"price": 278,
-		"category": "Verschiedenes",
-		"defname": "SadjuukLathe"
-	},
-	{
-		"abr": "millingmachine",
-		"price": 692,
-		"category": "Verschiedenes",
-		"defname": "SadjuukMilling"
-	},
-	{
-		"abr": "portablefuelcellx",
-		"price": 2600,
 		"category": "Möbel",
-		"defname": "SadjuukGeneratorX"
+		"defname": "RGK_TableG"
 	},
 	{
-		"abr": "portablegeneratorv",
-		"price": 617,
+		"abr": "celtictable(3x2)",
+		"price": 650,
 		"category": "Möbel",
-		"defname": "SadjuukGeneratorV"
+		"defname": "RGK_TableF"
 	},
 	{
-		"abr": "portablegeneratorw",
-		"price": 1358,
+		"abr": "celtictable(3x3)",
+		"price": 850,
 		"category": "Möbel",
-		"defname": "SadjuukGeneratorW"
+		"defname": "RGK_TableH"
 	},
 	{
-		"abr": "shapertool",
-		"price": 205,
+		"abr": "chair",
+		"price": 180,
+		"category": "Möbel",
+		"defname": "RGK_Chair"
+	},
+	{
+		"abr": "classydoublebed",
+		"price": 942,
+		"category": "Möbel",
+		"defname": "GL_ClassyDoubleBed"
+	},
+	{
+		"abr": "cupboard",
+		"price": 417,
 		"category": "Verschiedenes",
-		"defname": "SadjuukShaper"
+		"defname": "GL_Cupboard"
 	},
 	{
-		"abr": "solarcell",
-		"price": 12,
-		"category": "Hergestellt",
-		"defname": "SadjuukSolarCell"
-	},
-	{
-		"abr": "steelplate",
-		"price": 3,
-		"category": "Hergestellt",
-		"defname": "SadjuukSteelPlate"
-	},
-	{
-		"abr": "steeltube",
-		"price": 4,
-		"category": "Hergestellt",
-		"defname": "SadjuukSteelTube"
-	},
-	{
-		"abr": "syntheticpaint",
-		"price": 6,
-		"category": "Hergestellt",
-		"defname": "SadjuukSyntheticPaint"
-	},
-	{
-		"abr": "wallfirefoampopper",
-		"price": 177,
+		"abr": "diningchair",
+		"price": 192,
 		"category": "Möbel",
-		"defname": "SadjuukFirefoamPopper"
+		"defname": "RGKDiningChair"
 	},
 	{
-		"abr": "weldingrobot",
-		"price": 1883,
+		"abr": "doublebed",
+		"price": 292,
+		"category": "Möbel",
+		"defname": "RGK_bedDouble"
+	},
+	{
+		"abr": "doublebed2",
+		"price": 292,
+		"category": "Möbel",
+		"defname": "RGK_bedDoubleB"
+	},
+	{
+		"abr": "dresser",
+		"price": 179,
+		"category": "Möbel",
+		"defname": "RGK_Dresser"
+	},
+	{
+		"abr": "electricsmithy",
+		"price": 533,
+		"category": "Produktion",
+		"defname": "GL_ElectricSmithy"
+	},
+	{
+		"abr": "electricstove",
+		"price": 383,
+		"category": "Produktion",
+		"defname": "GL_ElectricStove"
+	},
+	{
+		"abr": "electrictailorbench",
+		"price": 542,
+		"category": "Produktion",
+		"defname": "GL_ElectricTailoringBench"
+	},
+	{
+		"abr": "endtable",
+		"price": 106,
+		"category": "Möbel",
+		"defname": "RGK_EndTable"
+	},
+	{
+		"abr": "endtable",
+		"price": 138,
+		"category": "Möbel",
+		"defname": "RGK_EndTableWithLamp"
+	},
+	{
+		"abr": "endtable",
+		"price": 185,
+		"category": "Möbel",
+		"defname": "RGK_EndTableWithLampE"
+	},
+	{
+		"abr": "fireplace",
+		"price": 392,
+		"category": "Möbel",
+		"defname": "RGK_Fireplace"
+	},
+	{
+		"abr": "fireplacee",
+		"price": 408,
+		"category": "Möbel",
+		"defname": "RGK_FireplaceE"
+	},
+	{
+		"abr": "fueledsmithy",
+		"price": 367,
+		"category": "Produktion",
+		"defname": "GL_FueledSmithy"
+	},
+	{
+		"abr": "fueledstove",
+		"price": 279,
+		"category": "Produktion",
+		"defname": "RGK_FueledStove"
+	},
+	{
+		"abr": "handtailorbench",
+		"price": 225,
+		"category": "Produktion",
+		"defname": "GL_HandTailoringBench"
+	},
+	{
+		"abr": "jukebox",
+		"price": 1617,
+		"category": "Entspannung",
+		"defname": "JukeBox"
+	},
+	{
+		"abr": "lamp",
+		"price": 42,
+		"category": "Möbel",
+		"defname": "RGK_lamp"
+	},
+	{
+		"abr": "lampe",
+		"price": 90,
+		"category": "Möbel",
+		"defname": "RGK_lampE"
+	},
+	{
+		"abr": "lampm",
+		"price": 42,
+		"category": "Möbel",
+		"defname": "RGK_LampM"
+	},
+	{
+		"abr": "locker",
+		"price": 284,
+		"category": "Möbel",
+		"defname": "GL_Locker"
+	},
+	{
+		"abr": "manger",
+		"price": 254,
+		"category": "Möbel",
+		"defname": "RGK_Manger"
+	},
+	{
+		"abr": "minitable",
+		"price": 88,
+		"category": "Möbel",
+		"defname": "RGK_MiniTableA"
+	},
+	{
+		"abr": "minitable",
+		"price": 88,
+		"category": "Möbel",
+		"defname": "RGK_MiniTableB"
+	},
+	{
+		"abr": "replicaflower",
+		"price": 46,
+		"category": "Möbel",
+		"defname": "RGK_Flower"
+	},
+	{
+		"abr": "rgkbucket",
+		"price": 87,
+		"category": "Möbel",
+		"defname": "RGK_bucketr"
+	},
+	{
+		"abr": "rgkorcbarrel",
+		"price": 87,
+		"category": "Möbel",
+		"defname": "RGK_orc"
+	},
+	{
+		"abr": "shelf",
+		"price": 154,
+		"category": "Möbel",
+		"defname": "GL_Shelf"
+	},
+	{
+		"abr": "simplechair",
+		"price": 87,
+		"category": "Möbel",
+		"defname": "RGK_SimpleChair"
+	},
+	{
+		"abr": "simpleresearchbench",
+		"price": 350,
+		"category": "Produktion",
+		"defname": "RGK_SimpleResearchBench"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": 176,
+		"category": "Möbel",
+		"defname": "RGK_TableA"
+	},
+	{
+		"abr": "tablec(2x2)",
+		"price": 229,
+		"category": "Möbel",
+		"defname": "RGK_TableC"
+	},
+	{
+		"abr": "tablewareshelf",
+		"price": 279,
 		"category": "Verschiedenes",
-		"defname": "SadjuukWeldingRobot"
+		"defname": "GL_TablewareShelf"
 	},
 	{
-		"abr": "wire",
-		"price": 1,
-		"category": "Hergestellt",
-		"defname": "SadjuukWire"
-	},
-	{
-		"abr": "woodenpallet",
-		"price": 10,
+		"abr": "teaset",
+		"price": 67,
 		"category": "Möbel",
-		"defname": "SadjuukWoodenPallet"
+		"defname": "RGK_Teaset"
+	},
+	{
+		"abr": "teddybear",
+		"price": 67,
+		"category": "Möbel",
+		"defname": "GL_Teddy"
+	},
+	{
+		"abr": "wardrobe",
+		"price": 417,
+		"category": "Möbel",
+		"defname": "WardrobeA"
+	},
+	{
+		"abr": "wardrobe",
+		"price": 433,
+		"category": "Möbel",
+		"defname": "WardrobeB"
+	},
+	{
+		"abr": "window",
+		"price": 17,
+		"category": "Möbel",
+		"defname": "RGK_window"
+	},
+	{
+		"abr": "winerack",
+		"price": 185,
+		"category": "Möbel",
+		"defname": "RKGWineRackB"
+	},
+	{
+		"abr": "advancedmulti-analyzer",
+		"price": 4225,
+		"category": "Verschiedenes",
+		"defname": "AdvancedMultiAnalyzer"
+	},
+	{
+		"abr": "improvedcabinet",
+		"price": 917,
+		"category": "Verschiedenes",
+		"defname": "ToolCabinetA"
+	},
+	{
+		"abr": "industrielleoperationsinstrumente",
+		"price": 350,
+		"category": "Verschiedenes",
+		"defname": "sd_medicaddons_industrial_surg_instruments"
+	},
+	{
+		"abr": "industriellesoperationslicht",
+		"price": 392,
+		"category": "Verschiedenes",
+		"defname": "sd_medicaddons_industrial_surg_lamp"
+	},
+	{
+		"abr": "kitchencupboard",
+		"price": 176,
+		"category": "Verschiedenes",
+		"defname": "KitchenCupboard"
+	},
+	{
+		"abr": "mechaniccabinet",
+		"price": 1558,
+		"category": "Verschiedenes",
+		"defname": "ToolCabinetB"
+	},
+	{
+		"abr": "mittelalterlicheoperationsinstrumente",
+		"price": 270,
+		"category": "Verschiedenes",
+		"defname": "sd_medicaddons_medieval_surg_instruments"
+	},
+	{
+		"abr": "mittelalterlicheoperationslaterne",
+		"price": 270,
+		"category": "Verschiedenes",
+		"defname": "sd_medicaddons_medieval_surg_lamp"
+	},
+	{
+		"abr": "mittelalterlichewaschschüssel",
+		"price": 191,
+		"category": "Verschiedenes",
+		"defname": "sd_medicaddons_medieval_surg_washpan"
+	},
+	{
+		"abr": "scientistcabinet",
+		"price": 2425,
+		"category": "Verschiedenes",
+		"defname": "ToolCabinetC"
+	},
+	{
+		"abr": "spacersurgeryinstruments",
+		"price": 908,
+		"category": "Verschiedenes",
+		"defname": "sd_medicaddons_spacer_surg_instruments"
+	},
+	{
+		"abr": "spacersurgerylamp",
+		"price": 1158,
+		"category": "Verschiedenes",
+		"defname": "sd_medicaddons_spacer_surg_lamp"
+	},
+	{
+		"abr": "spacervitalsmonitor",
+		"price": 1158,
+		"category": "Verschiedenes",
+		"defname": "sd_medicaddons_spacer_surg_vitalsmonitor"
+	},
+	{
+		"abr": "surgicalinstruments",
+		"price": 792,
+		"category": "Verschiedenes",
+		"defname": "SurgicalInstruments"
+	},
+	{
+		"abr": "surgicallamp",
+		"price": 198,
+		"category": "Verschiedenes",
+		"defname": "SurgicalLamp"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_I_disabled"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_II_disabled"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_III_disabled"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_IV_disabled"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_V_disabled"
+	},
+	{
+		"abr": "bauroboter(i)basisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_I"
+	},
+	{
+		"abr": "bauroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_II"
+	},
+	{
+		"abr": "bauroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "bauroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "bauroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_V"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_I_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_II_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_III_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_IV_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_V_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(i)basisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "fertigungsroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "fertigungsroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "fertigungsroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "fertigungsroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_V"
+	},
+	{
+		"abr": "glitterworldmedkit",
+		"price": 2500,
+		"category": "Kleidung",
+		"defname": "UltraMedKit"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_I_disabled"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_II_disabled"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_III_disabled"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_IV_disabled"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_V_disabled"
+	},
+	{
+		"abr": "küchenroboter(i)basisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "küchenroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_II"
+	},
+	{
+		"abr": "küchenroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_III"
+	},
+	{
+		"abr": "küchenroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_IV"
+	},
+	{
+		"abr": "küchenroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_V"
+	},
+	{
+		"abr": "logikschaltkreis(anti-logik)",
+		"price": 17967,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_V"
+	},
+	{
+		"abr": "logikschaltkreis(einfach)",
+		"price": 775,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_I"
+	},
+	{
+		"abr": "logikschaltkreis(erweitert)",
+		"price": 8817,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_IV"
+	},
+	{
+		"abr": "logikschaltkreis(grundlegend)",
+		"price": 1825,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_II"
+	},
+	{
+		"abr": "logikschaltkreis(mittel)",
+		"price": 4158,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_III"
+	},
+	{
+		"abr": "medicinebag",
+		"price": 233,
+		"category": "Kleidung",
+		"defname": "MedicineBag"
+	},
+	{
+		"abr": "medkit",
+		"price": 333,
+		"category": "Kleidung",
+		"defname": "MedicalKit"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_I_disabled"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_II_disabled"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_III_disabled"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_IV_disabled"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_V_disabled"
+	},
+	{
+		"abr": "notfallroboter(i)basisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "notfallroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "notfallroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "notfallroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "notfallroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
+		"abr": "putzroboterbasisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner"
+	},
+	{
+		"abr": "reinigungsbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_II_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_III_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_IV_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_V_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
+	},
+	{
+		"abr": "reinigungsroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "reinigungsroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "reinigungsroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
+		"abr": "repairkit",
+		"price": 250,
+		"category": "Kleidung",
+		"defname": "DubsRepairKit"
+	},
+	{
+		"abr": "roboterkomponente",
+		"price": 333,
+		"category": "Gegenstände",
+		"defname": "RPP_Component"
+	},
+	{
+		"abr": "roboterwerkbank",
+		"price": 1475,
+		"category": "Produktion",
+		"defname": "Table_RPP_RoboticsBench"
+	},
+	{
+		"abr": "salvagedcomponent",
+		"price": 35,
+		"category": "Hergestellt",
+		"defname": "SalvagedComponent"
+	},
+	{
+		"abr": "transportbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_disabled"
+	},
+	{
+		"abr": "transportbotbasisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "transportroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_II_disabled"
+	},
+	{
+		"abr": "transportroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_III_disabled"
+	},
+	{
+		"abr": "transportroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_IV_disabled"
+	},
+	{
+		"abr": "transportroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_V_disabled"
+	},
+	{
+		"abr": "transportroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "transportroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "transportroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "transportroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
+		"abr": "universalroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Omni_V_disabled"
+	},
+	{
+		"abr": "universalroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Omni_V"
+	},
+	{
+		"abr": "gäste-bed",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "RGK_bedSingleGuest"
+	},
+	{
+		"abr": "gäste-bed2",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "RGK_bedSingleBGuest"
+	},
+	{
+		"abr": "gäste-bett",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "gäste-classydoublebed",
+		"price": 942,
+		"category": "Möbel",
+		"defname": "GL_ClassyDoubleBedGuest"
+	},
+	{
+		"abr": "gäste-doppelbett",
+		"price": 292,
+		"category": "Möbel",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "gäste-doublebed",
+		"price": 292,
+		"category": "Möbel",
+		"defname": "RGK_bedDoubleGuest"
+	},
+	{
+		"abr": "gäste-doublebed2",
+		"price": 292,
+		"category": "Möbel",
+		"defname": "RGK_bedDoubleBGuest"
+	},
+	{
+		"abr": "gäste-großerschlafsack",
+		"price": 290,
+		"category": "Möbel",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "gäste-königlichesbett",
+		"price": 1467,
+		"category": "Möbel",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "gäste-krankenbett",
+		"price": 667,
+		"category": "Möbel",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "gäste-schlafsack",
+		"price": 137,
+		"category": "Möbel",
+		"defname": "BedrollGuest"
 	}
 	],
-	"total": 964
+	"total": 1188
 }
