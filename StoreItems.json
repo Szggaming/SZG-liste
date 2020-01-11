@@ -1,6 +1,18 @@
 {
 	"items" : [
 	{
+		"abr": "advancedmulti-analyzer",
+		"price": 4225,
+		"category": "Verschiedenes",
+		"defname": "AdvancedMultiAnalyzer"
+	},
+	{
+		"abr": "aérospatialegazelle",
+		"price": 3517,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Helicopter_AerospatialeGazelle"
+	},
+	{
 		"abr": "affe",
 		"price": 167,
 		"category": "Animal",
@@ -145,6 +157,12 @@
 		"defname": "Arm"
 	},
 	{
+		"abr": "armorrack",
+		"price": 139,
+		"category": "Möbel",
+		"defname": "ArmorRacks_ArmorRack"
+	},
+	{
 		"abr": "armprothese",
 		"price": 1167,
 		"category": "Einfache Prothesen",
@@ -269,6 +287,66 @@
 		"price": 333,
 		"category": "Strom",
 		"defname": "Battery"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_I_disabled"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_II_disabled"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_III_disabled"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_IV_disabled"
+	},
+	{
+		"abr": "bauroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_V_disabled"
+	},
+	{
+		"abr": "bauroboter(i)basisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_I"
+	},
+	{
+		"abr": "bauroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_II"
+	},
+	{
+		"abr": "bauroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "bauroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "bauroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Builder_V"
 	},
 	{
 		"abr": "bauteil",
@@ -469,6 +547,18 @@
 		"defname": "Meat_Boomrat"
 	},
 	{
+		"abr": "boxers",
+		"price": 42,
+		"category": "Underwear",
+		"defname": "UnderWhere_Boxers"
+	},
+	{
+		"abr": "bra",
+		"price": 45,
+		"category": "Underwear",
+		"defname": "UnderWhere_Bra"
+	},
+	{
 		"abr": "brandgeschosswerfer",
 		"price": 508,
 		"category": "Fernkampfwaffen",
@@ -497,6 +587,12 @@
 		"price": 2,
 		"category": "Nahrung",
 		"defname": "RC2_PickleBrine"
+	},
+	{
+		"abr": "c-130hercules",
+		"price": 17317,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Aeroplane_C130Hercules"
 	},
 	{
 		"abr": "cabbages",
@@ -547,6 +643,18 @@
 		"defname": "CeilingFan"
 	},
 	{
+		"abr": "ch-47chinook",
+		"price": 6192,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Helicopter_CH47Chinook"
+	},
+	{
+		"abr": "ch-53seastallion",
+		"price": 9325,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Helicopter_CH53SeaStallion"
+	},
+	{
 		"abr": "chemfuelpowerplant",
 		"price": 1558,
 		"category": "Oil",
@@ -569,6 +677,12 @@
 		"price": 3,
 		"category": "Raw fruits",
 		"defname": "RC2_RawCherries"
+	},
+	{
+		"abr": "chestwrap",
+		"price": 38,
+		"category": "Underwear",
+		"defname": "UnderWhere_Chestwrap"
 	},
 	{
 		"abr": "chickpeas",
@@ -773,6 +887,12 @@
 		"price": 13,
 		"category": "Rimatomics Product",
 		"defname": "DepletedUraniumPellets"
+	},
+	{
+		"abr": "dmcdelorean",
+		"price": 2250,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_TimeMachine_DeLorean"
 	},
 	{
 		"abr": "doomsday-raketenwerfer",
@@ -991,6 +1111,12 @@
 		"defname": "ToiletAdvStuff"
 	},
 	{
+		"abr": "embraerphenom300",
+		"price": 4883,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Aeroplane_EmbraerPhenomPrivateJet"
+	},
+	{
 		"abr": "emp-granate",
 		"price": 92,
 		"category": "GW Granaten",
@@ -1085,6 +1211,66 @@
 		"price": 525,
 		"category": "Entspannung",
 		"defname": "TubeTelevision"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_I_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_II_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_III_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_IV_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_V_disabled"
+	},
+	{
+		"abr": "fertigungsroboter(i)basisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "fertigungsroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "fertigungsroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "fertigungsroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "fertigungsroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Crafter_V"
 	},
 	{
 		"abr": "figs",
@@ -1328,12 +1514,6 @@
 	},
 	{
 		"abr": "heizkörper",
-		"price": 83,
-		"category": "Hygiene",
-		"defname": "Radiator"
-	},
-	{
-		"abr": "heizkörper",
 		"price": 85,
 		"category": "Hygiene",
 		"defname": "RadiatorStuffed"
@@ -1513,6 +1693,12 @@
 		"defname": "MeleeWeapon_Ikwa"
 	},
 	{
+		"abr": "improvedcabinet",
+		"price": 917,
+		"category": "Verschiedenes",
+		"defname": "ToolCabinetA"
+	},
+	{
 		"abr": "insektengelee",
 		"price": 13,
 		"category": "Tierische Produkte",
@@ -1621,6 +1807,12 @@
 		"defname": "AIPersonaCore"
 	},
 	{
+		"abr": "kitchencupboard",
+		"price": 176,
+		"category": "Verschiedenes",
+		"defname": "KitchenCupboard"
+	},
+	{
 		"abr": "kleintiertoilette",
 		"price": 52,
 		"category": "Hygiene",
@@ -1709,6 +1901,66 @@
 		"price": 75,
 		"category": "Kopfbekleidung",
 		"defname": "Apparel_WarVeil"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_I_disabled"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_II_disabled"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_III_disabled"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_IV_disabled"
+	},
+	{
+		"abr": "küchenroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_V_disabled"
+	},
+	{
+		"abr": "küchenroboter(i)basisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "küchenroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_II"
+	},
+	{
+		"abr": "küchenroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_III"
+	},
+	{
+		"abr": "küchenroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_IV"
+	},
+	{
+		"abr": "küchenroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Kitchen_V"
 	},
 	{
 		"abr": "kühlschrank",
@@ -1873,6 +2125,42 @@
 		"defname": "Lobster"
 	},
 	{
+		"abr": "logikschaltkreis(anti-logik)",
+		"price": 17967,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_V"
+	},
+	{
+		"abr": "logikschaltkreis(einfach)",
+		"price": 775,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_I"
+	},
+	{
+		"abr": "logikschaltkreis(erweitert)",
+		"price": 8817,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_IV"
+	},
+	{
+		"abr": "logikschaltkreis(grundlegend)",
+		"price": 1825,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_II"
+	},
+	{
+		"abr": "logikschaltkreis(mittel)",
+		"price": 4158,
+		"category": "Gegenstände",
+		"defname": "RPP_Matrix_III"
+	},
+	{
+		"abr": "loincloth",
+		"price": 38,
+		"category": "Underwear",
+		"defname": "UnderWhere_Loincloth"
+	},
+	{
 		"abr": "löschschaumgranate",
 		"price": 92,
 		"category": "GW Granaten",
@@ -1939,10 +2227,22 @@
 		"defname": "BlocksMarble"
 	},
 	{
+		"abr": "mechaniccabinet",
+		"price": 1558,
+		"category": "Verschiedenes",
+		"defname": "ToolCabinetB"
+	},
+	{
 		"abr": "mechanikwerkbank",
 		"price": 758,
 		"category": "Produktion",
 		"defname": "TableMachining"
+	},
+	{
+		"abr": "mechanizedarmorrack",
+		"price": 575,
+		"category": "Möbel",
+		"defname": "ArmorRacks_MechanizedArmorRack"
 	},
 	{
 		"abr": "medizin",
@@ -1967,6 +2267,12 @@
 		"price": 2,
 		"category": "Raw fruits",
 		"defname": "RC2_RawMelons"
+	},
+	{
+		"abr": "mendingarmorrack",
+		"price": 1125,
+		"category": "Möbel",
+		"defname": "ArmorRacks_MendingArmorRack"
 	},
 	{
 		"abr": "mensch",
@@ -1997,6 +2303,12 @@
 		"price": 111,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Knife"
+	},
+	{
+		"abr": "mh-6littlebird",
+		"price": 2642,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Helicopter_MH6LittleBird"
 	},
 	{
 		"abr": "milch",
@@ -2233,6 +2545,66 @@
 		"defname": "SurrogateKidney"
 	},
 	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_I_disabled"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_II_disabled"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_III_disabled"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_IV_disabled"
+	},
+	{
+		"abr": "notfallroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_V_disabled"
+	},
+	{
+		"abr": "notfallroboter(i)basisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "notfallroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "notfallroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "notfallroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "notfallroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
 		"abr": "nuclearwarhead",
 		"price": 24000,
 		"category": "Rimatomics Product",
@@ -2285,6 +2657,12 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Panther"
+	},
+	{
+		"abr": "panties",
+		"price": 42,
+		"category": "Underwear",
+		"defname": "UnderWhere_Panties"
 	},
 	{
 		"abr": "parka",
@@ -2497,6 +2875,12 @@
 		"defname": "RC2_RawPumpkins"
 	},
 	{
+		"abr": "putzroboterbasisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner"
+	},
+	{
 		"abr": "quadratischerblumentopf",
 		"price": 53,
 		"category": "Möbel",
@@ -2593,6 +2977,60 @@
 		"defname": "Shelf"
 	},
 	{
+		"abr": "reinigungsbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_II_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_III_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_IV_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_V_disabled"
+	},
+	{
+		"abr": "reinigungsroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
+	},
+	{
+		"abr": "reinigungsroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "reinigungsroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "reinigungsroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
 		"abr": "reis",
 		"price": 2,
 		"category": "Vegetarisch",
@@ -2663,6 +3101,18 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Cow"
+	},
+	{
+		"abr": "roboterkomponente",
+		"price": 333,
+		"category": "Gegenstände",
+		"defname": "RPP_Component"
+	},
+	{
+		"abr": "roboterwerkbank",
+		"price": 1475,
+		"category": "Produktion",
+		"defname": "Table_RPP_RoboticsBench"
 	},
 	{
 		"abr": "rocketengine",
@@ -2891,6 +3341,12 @@
 		"price": 6,
 		"category": "Leder",
 		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "scientistcabinet",
+		"price": 2425,
+		"category": "Verschiedenes",
+		"defname": "ToolCabinetC"
 	},
 	{
 		"abr": "scytherblade",
@@ -3241,6 +3697,18 @@
 		"defname": "RC2_RawSugarcane"
 	},
 	{
+		"abr": "surgicalinstruments",
+		"price": 792,
+		"category": "Verschiedenes",
+		"defname": "SurgicalInstruments"
+	},
+	{
+		"abr": "surgicallamp",
+		"price": 198,
+		"category": "Verschiedenes",
+		"defname": "SurgicalLamp"
+	},
+	{
 		"abr": "sushi",
 		"price": 47,
 		"category": "Mahlzeiten",
@@ -3383,6 +3851,12 @@
 		"price": 358,
 		"category": "Produktion",
 		"defname": "Blackboard"
+	},
+	{
+		"abr": "tanktop",
+		"price": 42,
+		"category": "Underwear",
+		"defname": "UnderWhere_Tanktop"
 	},
 	{
 		"abr": "targetingchip",
@@ -3529,6 +4003,66 @@
 		"defname": "RC2_RawTomato"
 	},
 	{
+		"abr": "transportbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_disabled"
+	},
+	{
+		"abr": "transportbotbasisstation",
+		"price": 833,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "transportroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_II_disabled"
+	},
+	{
+		"abr": "transportroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_III_disabled"
+	},
+	{
+		"abr": "transportroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_IV_disabled"
+	},
+	{
+		"abr": "transportroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_V_disabled"
+	},
+	{
+		"abr": "transportroboter(ii)basisstation",
+		"price": 2058,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "transportroboter(iii)basisstation",
+		"price": 4533,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "transportroboter(iv)basisstation",
+		"price": 9417,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "transportroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
 		"abr": "tresen",
 		"price": 38,
 		"category": "Möbel",
@@ -3595,6 +4129,18 @@
 		"defname": "MealSurvivalPack"
 	},
 	{
+		"abr": "uh-1huey",
+		"price": 4150,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Helicopter_UH1Huey"
+	},
+	{
+		"abr": "uh-60blackhawk",
+		"price": 4633,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Helicopter_UH60BlackHawk"
+	},
+	{
 		"abr": "uncuredplasteel",
 		"price": 3,
 		"category": "Rohstoffe",
@@ -3611,6 +4157,18 @@
 		"price": 2500,
 		"category": "Spezial",
 		"defname": "InfiniteChemreactor"
+	},
+	{
+		"abr": "universalroboter(deaktiviert)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Omni_V_disabled"
+	},
+	{
+		"abr": "universalroboter(v)basisstation",
+		"price": 19092,
+		"category": "Möbel",
+		"defname": "RPP_RechargeStation_Omni_V"
 	},
 	{
 		"abr": "üppigemahlzeit",
@@ -3659,6 +4217,12 @@
 		"price": 192,
 		"category": "Sicherheit",
 		"defname": "TrapIED_HighExplosive"
+	},
+	{
+		"abr": "v-22osprey",
+		"price": 7692,
+		"category": "Verschiedenes",
+		"defname": "RHBuilding_Helicopter_MV22Osprey"
 	},
 	{
 		"abr": "vanometrischeenergiezelle",
@@ -3973,1204 +4537,16 @@
 		"defname": "TornadoGenerator"
 	},
 	{
-		"abr": "boxers",
-		"price": 42,
-		"category": "Underwear",
-		"defname": "UnderWhere_Boxers"
-	},
-	{
-		"abr": "bra",
-		"price": 45,
-		"category": "Underwear",
-		"defname": "UnderWhere_Bra"
-	},
-	{
-		"abr": "chestwrap",
-		"price": 38,
-		"category": "Underwear",
-		"defname": "UnderWhere_Chestwrap"
-	},
-	{
-		"abr": "loincloth",
-		"price": 38,
-		"category": "Underwear",
-		"defname": "UnderWhere_Loincloth"
-	},
-	{
-		"abr": "panties",
-		"price": 42,
-		"category": "Underwear",
-		"defname": "UnderWhere_Panties"
-	},
-	{
-		"abr": "tanktop",
-		"price": 42,
-		"category": "Underwear",
-		"defname": "UnderWhere_Tanktop"
-	},
-	{
-		"abr": "accelerator",
-		"price": 2500,
-		"category": "Cyborg weaponry",
-		"defname": "CW_Accelerator"
-	},
-	{
-		"abr": "ballisticcombatgun",
-		"price": 1667,
-		"category": "Cyborg weaponry",
-		"defname": "CW_BallisticCombatGun"
-	},
-	{
-		"abr": "ballisticenforcer",
-		"price": 1667,
-		"category": "Cyborg weaponry",
-		"defname": "CW_BallisticEnforcer"
-	},
-	{
-		"abr": "ballisticshredder",
-		"price": 1667,
-		"category": "Cyborg weaponry",
-		"defname": "CW_BallisticShredder"
-	},
-	{
-		"abr": "chainsword",
-		"price": 2000,
-		"category": "Cyborg weaponry",
-		"defname": "CW_ChainSword"
-	},
-	{
-		"abr": "coilgun",
-		"price": 2917,
-		"category": "Cyborg weaponry",
-		"defname": "CW_CoilGun"
-	},
-	{
-		"abr": "disruptor",
-		"price": 3083,
-		"category": "Cyborg weaponry",
-		"defname": "CW_Disruptor"
-	},
-	{
-		"abr": "dualeraser",
-		"price": 2000,
-		"category": "Cyborg weaponry",
-		"defname": "CW_DualEraser"
-	},
-	{
-		"abr": "energyclaw",
-		"price": 2000,
-		"category": "Cyborg weaponry",
-		"defname": "CW_EnergyClaw"
-	},
-	{
-		"abr": "energysword",
-		"price": 2000,
-		"category": "Cyborg weaponry",
-		"defname": "CW_EnergySword"
-	},
-	{
-		"abr": "gunblade",
-		"price": 2000,
-		"category": "Cyborg weaponry",
-		"defname": "CW_GunBlade"
-	},
-	{
-		"abr": "havoclauncher",
-		"price": 2225,
-		"category": "Cyborg weaponry",
-		"defname": "CW_HavocLauncher"
-	},
-	{
-		"abr": "napalmblaster",
-		"price": 1667,
-		"category": "Cyborg weaponry",
-		"defname": "CW_NapalmBlaster"
-	},
-	{
-		"abr": "plasmagun",
-		"price": 2917,
-		"category": "Cyborg weaponry",
-		"defname": "CW_PlasmaGun"
-	},
-	{
-		"abr": "powerfist",
-		"price": 2000,
-		"category": "Cyborg weaponry",
-		"defname": "CW_PowerFist"
-	},
-	{
-		"abr": "reconbolter",
-		"price": 3333,
-		"category": "Cyborg weaponry",
-		"defname": "CW_ReconBolter"
-	},
-	{
-		"abr": "riotbreaker",
-		"price": 1667,
-		"category": "Cyborg weaponry",
-		"defname": "CW_RiotBreaker"
-	},
-	{
-		"abr": "shocker",
-		"price": 1333,
-		"category": "Künstlich",
-		"defname": "ANN_Shocker"
-	},
-	{
-		"abr": "ammocrate",
-		"price": 533,
-		"category": "Möbel",
-		"defname": "VFES_AmmoCrate"
-	},
-	{
-		"abr": "archotechshieldgenerator",
-		"price": 4667,
-		"category": "Spezial",
-		"defname": "VFES_ShieldGenerator_Archotech"
-	},
-	{
-		"abr": "artillery",
-		"price": 1425,
-		"category": "Sicherheit",
-		"defname": "VFES_Turret_Artillery"
-	},
-	{
-		"abr": "beartrap",
-		"price": 236,
-		"category": "Sicherheit",
-		"defname": "VFES_BearTrap"
-	},
-	{
-		"abr": "chargeturret",
-		"price": 1708,
-		"category": "Sicherheit",
-		"defname": "VFES_Turret_ChargeTurret"
-	},
-	{
-		"abr": "chemfuelbarrel",
-		"price": 296,
-		"category": "Sicherheit",
-		"defname": "VFES_ChemfuelBarrel"
-	},
-	{
-		"abr": "decoy",
-		"price": 184,
-		"category": "Sicherheit",
-		"defname": "VFES_Turret_Decoy"
-	},
-	{
-		"abr": "flameturret",
-		"price": 1117,
-		"category": "Sicherheit",
-		"defname": "VFES_Turret_Flame"
-	},
-	{
-		"abr": "floorturret",
-		"price": 992,
-		"category": "Sicherheit",
-		"defname": "VFES_Turret_FloorTurret"
-	},
-	{
-		"abr": "landmine",
-		"price": 261,
-		"category": "Sicherheit",
-		"defname": "VFES_Landmine"
-	},
-	{
-		"abr": "militaryturret",
-		"price": 850,
-		"category": "Sicherheit",
-		"defname": "VFES_Turret_MilitaryTurret"
-	},
-	{
-		"abr": "psychicpylon",
-		"price": 2167,
-		"category": "Spezial",
-		"defname": "VFES_PsychicPylon"
-	},
-	{
-		"abr": "searchlight",
-		"price": 483,
-		"category": "Sicherheit",
-		"defname": "VFES_Turret_Searchlight"
-	},
-	{
-		"abr": "sentrygun",
-		"price": 1092,
-		"category": "Sicherheit",
-		"defname": "VFES_Turret_SentryGun"
-	},
-	{
-		"abr": "smallshieldgenerator",
-		"price": 3983,
-		"category": "Sicherheit",
-		"defname": "VFES_ShieldGenerator_Small"
-	},
-	{
-		"abr": "electricrepairbench",
-		"price": 583,
-		"category": "Produktion",
-		"defname": "ElectricTableRepair"
-	},
-	{
-		"abr": "repairkit",
-		"price": 6,
-		"category": "Hergestellt",
-		"defname": "RepairKit"
-	},
-	{
-		"abr": "barber'stable",
-		"price": 328,
-		"category": "Verschiedenes",
-		"defname": "VHE_TableBarber"
-	},
-	{
-		"abr": "bed",
-		"price": 155,
-		"category": "Möbel",
-		"defname": "RGK_bedSingle"
-	},
-	{
-		"abr": "bed2",
-		"price": 155,
-		"category": "Möbel",
-		"defname": "RGK_bedSingleB"
-	},
-	{
-		"abr": "bench",
-		"price": 358,
-		"category": "Möbel",
-		"defname": "GL_Bench"
-	},
-	{
-		"abr": "bonfire",
-		"price": 417,
-		"category": "Möbel",
-		"defname": "GL_Bonfire"
-	},
-	{
-		"abr": "bookshelf",
-		"price": 908,
-		"category": "Verschiedenes",
-		"defname": "GL_Bookshelf"
-	},
-	{
-		"abr": "bowl",
-		"price": 104,
-		"category": "Möbel",
-		"defname": "RGK_DogBowl"
-	},
-	{
-		"abr": "celticrug",
-		"price": 304,
-		"category": "Möbel",
-		"defname": "RugA_Small"
-	},
-	{
-		"abr": "celticrug",
-		"price": 304,
-		"category": "Möbel",
-		"defname": "RugB_Small"
-	},
-	{
-		"abr": "celticrug",
-		"price": 304,
-		"category": "Möbel",
-		"defname": "RugC_Small"
-	},
-	{
-		"abr": "celticrug",
-		"price": 400,
-		"category": "Möbel",
-		"defname": "RugA"
-	},
-	{
-		"abr": "celticrug",
-		"price": 400,
-		"category": "Möbel",
-		"defname": "RugB"
-	},
-	{
-		"abr": "celticrug",
-		"price": 400,
-		"category": "Möbel",
-		"defname": "RugC"
-	},
-	{
-		"abr": "celticrug",
-		"price": 500,
-		"category": "Möbel",
-		"defname": "RugA_Large"
-	},
-	{
-		"abr": "celticrug",
-		"price": 500,
-		"category": "Möbel",
-		"defname": "RugB_Large"
-	},
-	{
-		"abr": "celticrug",
-		"price": 500,
-		"category": "Möbel",
-		"defname": "RugC_Large"
-	},
-	{
-		"abr": "celtictable(2x1)",
-		"price": 367,
-		"category": "Möbel",
-		"defname": "RGK_TableE"
-	},
-	{
-		"abr": "celtictable(2x2)",
-		"price": 392,
-		"category": "Möbel",
-		"defname": "RGK_TableB"
-	},
-	{
-		"abr": "celtictable(2x2)",
-		"price": 392,
-		"category": "Möbel",
-		"defname": "RGK_TableD"
-	},
-	{
-		"abr": "celtictable(2x2)",
-		"price": 692,
-		"category": "Möbel",
-		"defname": "RGK_TableG"
-	},
-	{
-		"abr": "celtictable(3x2)",
-		"price": 650,
-		"category": "Möbel",
-		"defname": "RGK_TableF"
-	},
-	{
-		"abr": "celtictable(3x3)",
-		"price": 850,
-		"category": "Möbel",
-		"defname": "RGK_TableH"
-	},
-	{
-		"abr": "chair",
-		"price": 180,
-		"category": "Möbel",
-		"defname": "RGK_Chair"
-	},
-	{
-		"abr": "classydoublebed",
-		"price": 942,
-		"category": "Möbel",
-		"defname": "GL_ClassyDoubleBed"
-	},
-	{
-		"abr": "cupboard",
-		"price": 417,
-		"category": "Verschiedenes",
-		"defname": "GL_Cupboard"
-	},
-	{
-		"abr": "diningchair",
-		"price": 192,
-		"category": "Möbel",
-		"defname": "RGKDiningChair"
-	},
-	{
-		"abr": "doublebed",
-		"price": 292,
-		"category": "Möbel",
-		"defname": "RGK_bedDouble"
-	},
-	{
-		"abr": "doublebed2",
-		"price": 292,
-		"category": "Möbel",
-		"defname": "RGK_bedDoubleB"
-	},
-	{
-		"abr": "dresser",
-		"price": 179,
-		"category": "Möbel",
-		"defname": "RGK_Dresser"
-	},
-	{
-		"abr": "electricsmithy",
-		"price": 533,
-		"category": "Produktion",
-		"defname": "GL_ElectricSmithy"
-	},
-	{
-		"abr": "electricstove",
-		"price": 383,
-		"category": "Produktion",
-		"defname": "GL_ElectricStove"
-	},
-	{
-		"abr": "electrictailorbench",
-		"price": 542,
-		"category": "Produktion",
-		"defname": "GL_ElectricTailoringBench"
-	},
-	{
-		"abr": "endtable",
-		"price": 106,
-		"category": "Möbel",
-		"defname": "RGK_EndTable"
-	},
-	{
-		"abr": "endtable",
-		"price": 138,
-		"category": "Möbel",
-		"defname": "RGK_EndTableWithLamp"
-	},
-	{
-		"abr": "endtable",
-		"price": 185,
-		"category": "Möbel",
-		"defname": "RGK_EndTableWithLampE"
-	},
-	{
-		"abr": "fireplace",
-		"price": 392,
-		"category": "Möbel",
-		"defname": "RGK_Fireplace"
-	},
-	{
-		"abr": "fireplacee",
-		"price": 408,
-		"category": "Möbel",
-		"defname": "RGK_FireplaceE"
-	},
-	{
-		"abr": "fueledsmithy",
-		"price": 367,
-		"category": "Produktion",
-		"defname": "GL_FueledSmithy"
-	},
-	{
-		"abr": "fueledstove",
-		"price": 279,
-		"category": "Produktion",
-		"defname": "RGK_FueledStove"
-	},
-	{
-		"abr": "handtailorbench",
-		"price": 225,
-		"category": "Produktion",
-		"defname": "GL_HandTailoringBench"
-	},
-	{
-		"abr": "jukebox",
-		"price": 1617,
-		"category": "Entspannung",
-		"defname": "JukeBox"
-	},
-	{
-		"abr": "lamp",
-		"price": 42,
-		"category": "Möbel",
-		"defname": "RGK_lamp"
-	},
-	{
-		"abr": "lampe",
-		"price": 90,
-		"category": "Möbel",
-		"defname": "RGK_lampE"
-	},
-	{
-		"abr": "lampm",
-		"price": 42,
-		"category": "Möbel",
-		"defname": "RGK_LampM"
-	},
-	{
-		"abr": "locker",
-		"price": 284,
-		"category": "Möbel",
-		"defname": "GL_Locker"
-	},
-	{
-		"abr": "manger",
-		"price": 254,
-		"category": "Möbel",
-		"defname": "RGK_Manger"
-	},
-	{
-		"abr": "minitable",
-		"price": 88,
-		"category": "Möbel",
-		"defname": "RGK_MiniTableA"
-	},
-	{
-		"abr": "minitable",
-		"price": 88,
-		"category": "Möbel",
-		"defname": "RGK_MiniTableB"
-	},
-	{
-		"abr": "replicaflower",
-		"price": 46,
-		"category": "Möbel",
-		"defname": "RGK_Flower"
-	},
-	{
-		"abr": "rgkbucket",
-		"price": 87,
-		"category": "Möbel",
-		"defname": "RGK_bucketr"
-	},
-	{
-		"abr": "rgkorcbarrel",
-		"price": 87,
-		"category": "Möbel",
-		"defname": "RGK_orc"
-	},
-	{
-		"abr": "shelf",
-		"price": 154,
-		"category": "Möbel",
-		"defname": "GL_Shelf"
-	},
-	{
-		"abr": "simplechair",
-		"price": 87,
-		"category": "Möbel",
-		"defname": "RGK_SimpleChair"
-	},
-	{
-		"abr": "simpleresearchbench",
-		"price": 350,
-		"category": "Produktion",
-		"defname": "RGK_SimpleResearchBench"
-	},
-	{
-		"abr": "table(2x2)",
-		"price": 176,
-		"category": "Möbel",
-		"defname": "RGK_TableA"
-	},
-	{
-		"abr": "tablec(2x2)",
-		"price": 229,
-		"category": "Möbel",
-		"defname": "RGK_TableC"
-	},
-	{
-		"abr": "tablewareshelf",
-		"price": 279,
-		"category": "Verschiedenes",
-		"defname": "GL_TablewareShelf"
-	},
-	{
-		"abr": "teaset",
-		"price": 67,
-		"category": "Möbel",
-		"defname": "RGK_Teaset"
-	},
-	{
-		"abr": "teddybear",
-		"price": 67,
-		"category": "Möbel",
-		"defname": "GL_Teddy"
-	},
-	{
-		"abr": "wardrobe",
-		"price": 417,
-		"category": "Möbel",
-		"defname": "WardrobeA"
-	},
-	{
-		"abr": "wardrobe",
-		"price": 433,
-		"category": "Möbel",
-		"defname": "WardrobeB"
-	},
-	{
-		"abr": "window",
-		"price": 17,
-		"category": "Möbel",
-		"defname": "RGK_window"
-	},
-	{
-		"abr": "winerack",
-		"price": 185,
-		"category": "Möbel",
-		"defname": "RKGWineRackB"
-	},
-	{
-		"abr": "advancedmulti-analyzer",
-		"price": 4225,
-		"category": "Verschiedenes",
-		"defname": "AdvancedMultiAnalyzer"
-	},
-	{
-		"abr": "improvedcabinet",
-		"price": 917,
-		"category": "Verschiedenes",
-		"defname": "ToolCabinetA"
-	},
-	{
-		"abr": "industrielleoperationsinstrumente",
-		"price": 350,
-		"category": "Verschiedenes",
-		"defname": "sd_medicaddons_industrial_surg_instruments"
-	},
-	{
-		"abr": "industriellesoperationslicht",
-		"price": 392,
-		"category": "Verschiedenes",
-		"defname": "sd_medicaddons_industrial_surg_lamp"
-	},
-	{
-		"abr": "kitchencupboard",
-		"price": 176,
-		"category": "Verschiedenes",
-		"defname": "KitchenCupboard"
-	},
-	{
-		"abr": "mechaniccabinet",
-		"price": 1558,
-		"category": "Verschiedenes",
-		"defname": "ToolCabinetB"
-	},
-	{
-		"abr": "mittelalterlicheoperationsinstrumente",
-		"price": 270,
-		"category": "Verschiedenes",
-		"defname": "sd_medicaddons_medieval_surg_instruments"
-	},
-	{
-		"abr": "mittelalterlicheoperationslaterne",
-		"price": 270,
-		"category": "Verschiedenes",
-		"defname": "sd_medicaddons_medieval_surg_lamp"
-	},
-	{
-		"abr": "mittelalterlichewaschschüssel",
-		"price": 191,
-		"category": "Verschiedenes",
-		"defname": "sd_medicaddons_medieval_surg_washpan"
-	},
-	{
-		"abr": "scientistcabinet",
-		"price": 2425,
-		"category": "Verschiedenes",
-		"defname": "ToolCabinetC"
-	},
-	{
-		"abr": "spacersurgeryinstruments",
-		"price": 908,
-		"category": "Verschiedenes",
-		"defname": "sd_medicaddons_spacer_surg_instruments"
-	},
-	{
-		"abr": "spacersurgerylamp",
-		"price": 1158,
-		"category": "Verschiedenes",
-		"defname": "sd_medicaddons_spacer_surg_lamp"
-	},
-	{
-		"abr": "spacervitalsmonitor",
-		"price": 1158,
-		"category": "Verschiedenes",
-		"defname": "sd_medicaddons_spacer_surg_vitalsmonitor"
-	},
-	{
-		"abr": "surgicalinstruments",
-		"price": 792,
-		"category": "Verschiedenes",
-		"defname": "SurgicalInstruments"
-	},
-	{
-		"abr": "surgicallamp",
-		"price": 198,
-		"category": "Verschiedenes",
-		"defname": "SurgicalLamp"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_I_disabled"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_II_disabled"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_III_disabled"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_IV_disabled"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_V_disabled"
-	},
-	{
-		"abr": "bauroboter(i)basisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_I"
-	},
-	{
-		"abr": "bauroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_II"
-	},
-	{
-		"abr": "bauroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_III"
-	},
-	{
-		"abr": "bauroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_IV"
-	},
-	{
-		"abr": "bauroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_V"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_I_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_II_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_III_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_IV_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_V_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(i)basisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_I"
-	},
-	{
-		"abr": "fertigungsroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_II"
-	},
-	{
-		"abr": "fertigungsroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_III"
-	},
-	{
-		"abr": "fertigungsroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_IV"
-	},
-	{
-		"abr": "fertigungsroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_V"
-	},
-	{
-		"abr": "glitterworldmedkit",
-		"price": 2500,
-		"category": "Kleidung",
-		"defname": "UltraMedKit"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_I_disabled"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_II_disabled"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_III_disabled"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_IV_disabled"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_V_disabled"
-	},
-	{
-		"abr": "küchenroboter(i)basisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_I"
-	},
-	{
-		"abr": "küchenroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_II"
-	},
-	{
-		"abr": "küchenroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_III"
-	},
-	{
-		"abr": "küchenroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_IV"
-	},
-	{
-		"abr": "küchenroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_V"
-	},
-	{
-		"abr": "logikschaltkreis(anti-logik)",
-		"price": 17967,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_V"
-	},
-	{
-		"abr": "logikschaltkreis(einfach)",
-		"price": 775,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_I"
-	},
-	{
-		"abr": "logikschaltkreis(erweitert)",
-		"price": 8817,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_IV"
-	},
-	{
-		"abr": "logikschaltkreis(grundlegend)",
-		"price": 1825,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_II"
-	},
-	{
-		"abr": "logikschaltkreis(mittel)",
-		"price": 4158,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_III"
-	},
-	{
-		"abr": "medicinebag",
-		"price": 233,
-		"category": "Kleidung",
-		"defname": "MedicineBag"
-	},
-	{
-		"abr": "medkit",
-		"price": 333,
-		"category": "Kleidung",
-		"defname": "MedicalKit"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_I_disabled"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_II_disabled"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_III_disabled"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_IV_disabled"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_V_disabled"
-	},
-	{
-		"abr": "notfallroboter(i)basisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_I"
-	},
-	{
-		"abr": "notfallroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_II"
-	},
-	{
-		"abr": "notfallroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_III"
-	},
-	{
-		"abr": "notfallroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_IV"
-	},
-	{
-		"abr": "notfallroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_V"
-	},
-	{
-		"abr": "putzroboterbasisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner"
-	},
-	{
-		"abr": "reinigungsbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_II_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_III_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_IV_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_V_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner_II"
-	},
-	{
-		"abr": "reinigungsroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner_III"
-	},
-	{
-		"abr": "reinigungsroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner_IV"
-	},
-	{
-		"abr": "reinigungsroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner_V"
-	},
-	{
-		"abr": "repairkit",
-		"price": 250,
-		"category": "Kleidung",
-		"defname": "DubsRepairKit"
-	},
-	{
-		"abr": "roboterkomponente",
-		"price": 333,
-		"category": "Gegenstände",
-		"defname": "RPP_Component"
-	},
-	{
-		"abr": "roboterwerkbank",
-		"price": 1475,
-		"category": "Produktion",
-		"defname": "Table_RPP_RoboticsBench"
-	},
-	{
-		"abr": "salvagedcomponent",
-		"price": 35,
-		"category": "Hergestellt",
-		"defname": "SalvagedComponent"
-	},
-	{
-		"abr": "transportbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_disabled"
-	},
-	{
-		"abr": "transportbotbasisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler"
-	},
-	{
-		"abr": "transportroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_II_disabled"
-	},
-	{
-		"abr": "transportroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_III_disabled"
-	},
-	{
-		"abr": "transportroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_IV_disabled"
-	},
-	{
-		"abr": "transportroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_V_disabled"
-	},
-	{
-		"abr": "transportroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler_II"
-	},
-	{
-		"abr": "transportroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler_III"
-	},
-	{
-		"abr": "transportroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler_IV"
-	},
-	{
-		"abr": "transportroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler_V"
-	},
-	{
-		"abr": "universalroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Omni_V_disabled"
-	},
-	{
-		"abr": "universalroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Omni_V"
-	},
-	{
-		"abr": "gäste-bed",
-		"price": 155,
-		"category": "Möbel",
-		"defname": "RGK_bedSingleGuest"
-	},
-	{
-		"abr": "gäste-bed2",
-		"price": 155,
-		"category": "Möbel",
-		"defname": "RGK_bedSingleBGuest"
-	},
-	{
 		"abr": "gäste-bett",
 		"price": 155,
 		"category": "Möbel",
 		"defname": "BedGuest"
 	},
 	{
-		"abr": "gäste-classydoublebed",
-		"price": 942,
-		"category": "Möbel",
-		"defname": "GL_ClassyDoubleBedGuest"
-	},
-	{
 		"abr": "gäste-doppelbett",
 		"price": 292,
 		"category": "Möbel",
 		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "gäste-doublebed",
-		"price": 292,
-		"category": "Möbel",
-		"defname": "RGK_bedDoubleGuest"
-	},
-	{
-		"abr": "gäste-doublebed2",
-		"price": 292,
-		"category": "Möbel",
-		"defname": "RGK_bedDoubleBGuest"
 	},
 	{
 		"abr": "gäste-großerschlafsack",
@@ -5197,5 +4573,5 @@
 		"defname": "BedrollGuest"
 	}
 	],
-	"total": 1188
+	"total": 769
 }
