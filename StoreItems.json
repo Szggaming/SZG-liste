@@ -1,18 +1,6 @@
 {
 	"items" : [
 	{
-		"abr": "advancedmulti-analyzer",
-		"price": 4225,
-		"category": "Verschiedenes",
-		"defname": "AdvancedMultiAnalyzer"
-	},
-	{
-		"abr": "aérospatialegazelle",
-		"price": 3517,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Helicopter_AerospatialeGazelle"
-	},
-	{
 		"abr": "affe",
 		"price": 167,
 		"category": "Animal",
@@ -35,18 +23,6 @@
 		"price": 2,
 		"category": "Vegetarisch",
 		"defname": "RawAgave"
-	},
-	{
-		"abr": "aktenschrank",
-		"price": 74,
-		"category": "Möbel",
-		"defname": "Anon2FileCabinet"
-	},
-	{
-		"abr": "alc",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ALC"
 	},
 	{
 		"abr": "alpaka",
@@ -81,7 +57,7 @@
 	{
 		"abr": "analysator",
 		"price": 1700,
-		"category": "Verschiedenes",
+		"category": "Diverses",
 		"defname": "MultiAnalyzer"
 	},
 	{
@@ -93,13 +69,13 @@
 	{
 		"abr": "antimateriegefechtskopf",
 		"price": 2000,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
 		"abr": "anti-psychofolienhelm",
 		"price": 417,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_PsychicFoilHelmet"
 	},
 	{
@@ -115,57 +91,27 @@
 		"defname": "Arapaima"
 	},
 	{
-		"abr": "arbeitstischfürbionischegliedmaßen",
-		"price": 4058,
-		"category": "Produktion",
-		"defname": "TableBionics"
-	},
-	{
-		"abr": "arbeitstischfüreinfacheprothesen",
-		"price": 908,
-		"category": "Produktion",
-		"defname": "TableSimpleProsthetic"
-	},
-	{
-		"abr": "arbeitstischfürprim.prothesen",
-		"price": 383,
-		"category": "Produktion",
-		"defname": "TableBasicProsthetic"
-	},
-	{
 		"abr": "archotecharm",
 		"price": 4667,
-		"category": "Künstlich",
+		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotechauge",
 		"price": 4667,
-		"category": "Künstlich",
+		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechbein",
 		"price": 4667,
-		"category": "Künstlich",
+		"category": "Archotech",
 		"defname": "ArchotechLeg"
-	},
-	{
-		"abr": "arm",
-		"price": 2167,
-		"category": "Natürlich",
-		"defname": "Arm"
-	},
-	{
-		"abr": "armorrack",
-		"price": 139,
-		"category": "Möbel",
-		"defname": "ArmorRacks_ArmorRack"
 	},
 	{
 		"abr": "armprothese",
 		"price": 1167,
-		"category": "Einfache Prothesen",
+		"category": "Prothetisch",
 		"defname": "SimpleProstheticArm"
 	},
 	{
@@ -175,76 +121,16 @@
 		"defname": "RC2_RawAsparagus"
 	},
 	{
-		"abr": "atom",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ATOM"
-	},
-	{
-		"abr": "aufputschendesrippen-implantat",
-		"price": 1333,
-		"category": "Bionische Gliedmaßen",
-		"defname": "AdrenalineRib"
-	},
-	{
-		"abr": "auge",
-		"price": 2500,
-		"category": "Natürlich",
-		"defname": "Eye"
-	},
-	{
-		"abr": "augenklappe",
-		"price": 108,
-		"category": "Grundlegende Prothesen",
-		"defname": "EyePatch"
-	},
-	{
 		"abr": "außenluftkonvektor",
 		"price": 458,
 		"category": "Hygiene",
 		"defname": "AirConOutdoorUnit"
 	},
 	{
-		"abr": "autoclave",
-		"price": 1108,
-		"category": "Oil",
-		"defname": "Autoclave"
-	},
-	{
 		"abr": "autom.schrotflinte",
 		"price": 675,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_ChainShotgun"
-	},
-	{
-		"abr": "auxiliaryai(agricultural)",
-		"price": 7500,
-		"category": "Synthetische Organe",
-		"defname": "FarmerCore"
-	},
-	{
-		"abr": "auxiliaryai(constructing)",
-		"price": 7500,
-		"category": "Synthetische Organe",
-		"defname": "ConstructorCore"
-	},
-	{
-		"abr": "auxiliaryai(diplomatic)",
-		"price": 7500,
-		"category": "Synthetische Organe",
-		"defname": "DiplomatCore"
-	},
-	{
-		"abr": "auxiliaryai(medical)",
-		"price": 7500,
-		"category": "Synthetische Organe",
-		"defname": "DoctorCore"
-	},
-	{
-		"abr": "auxiliaryai(mining)",
-		"price": 7500,
-		"category": "Synthetische Organe",
-		"defname": "MinerCore"
 	},
 	{
 		"abr": "badewanne",
@@ -289,76 +175,10 @@
 		"defname": "Battery"
 	},
 	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_I_disabled"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_II_disabled"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_III_disabled"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_IV_disabled"
-	},
-	{
-		"abr": "bauroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_V_disabled"
-	},
-	{
-		"abr": "bauroboter(i)basisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_I"
-	},
-	{
-		"abr": "bauroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_II"
-	},
-	{
-		"abr": "bauroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_III"
-	},
-	{
-		"abr": "bauroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_IV"
-	},
-	{
-		"abr": "bauroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Builder_V"
-	},
-	{
 		"abr": "bauteil",
 		"price": 53,
 		"category": "Hergestellt",
 		"defname": "ComponentIndustrial"
-	},
-	{
-		"abr": "beamsplitter",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "BeamSplitter"
 	},
 	{
 		"abr": "beeren",
@@ -373,15 +193,9 @@
 		"defname": "RC2_RawBeets"
 	},
 	{
-		"abr": "bein",
-		"price": 2167,
-		"category": "Natürlich",
-		"defname": "Leg"
-	},
-	{
 		"abr": "beinprothese",
 		"price": 1167,
-		"category": "Einfache Prothesen",
+		"category": "Prothetisch",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
@@ -395,12 +209,6 @@
 		"price": 1000,
 		"category": "Artefakte",
 		"defname": "PsychicSoothePulser"
-	},
-	{
-		"abr": "betäubendesrippen-implantat",
-		"price": 1333,
-		"category": "Bionische Gliedmaßen",
-		"defname": "DruggedRib"
 	},
 	{
 		"abr": "bett",
@@ -445,51 +253,33 @@
 		"defname": "BilliardsTable"
 	},
 	{
-		"abr": "bionischehand",
-		"price": 1667,
-		"category": "Bionische Gliedmaßen",
-		"defname": "BionicHand"
-	},
-	{
 		"abr": "bionischewirbelsäule",
 		"price": 2917,
-		"category": "Bionische Gliedmaßen",
+		"category": "Bionisch",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionischerarm",
 		"price": 2917,
-		"category": "Bionische Gliedmaßen",
+		"category": "Bionisch",
 		"defname": "BionicArm"
-	},
-	{
-		"abr": "bionischerfuß",
-		"price": 1250,
-		"category": "Bionische Gliedmaßen",
-		"defname": "BionicFoot"
-	},
-	{
-		"abr": "bionischerkiefer",
-		"price": 1667,
-		"category": "Bionische Gliedmaßen",
-		"defname": "BionicJaw"
 	},
 	{
 		"abr": "bionischesauge",
 		"price": 2500,
-		"category": "Bionische Gliedmaßen",
+		"category": "Bionisch",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionischesbein",
 		"price": 2917,
-		"category": "Bionische Gliedmaßen",
+		"category": "Bionisch",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionischesohr",
 		"price": 1333,
-		"category": "Bionische Gliedmaßen",
+		"category": "Bionisch",
 		"defname": "BionicEar"
 	},
 	{
@@ -547,18 +337,6 @@
 		"defname": "Meat_Boomrat"
 	},
 	{
-		"abr": "boxers",
-		"price": 42,
-		"category": "Underwear",
-		"defname": "UnderWhere_Boxers"
-	},
-	{
-		"abr": "bra",
-		"price": 45,
-		"category": "Underwear",
-		"defname": "UnderWhere_Bra"
-	},
-	{
 		"abr": "brandgeschosswerfer",
 		"price": 508,
 		"category": "Fernkampfwaffen",
@@ -567,7 +345,7 @@
 	{
 		"abr": "brandgranate",
 		"price": 92,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_Incendiary"
 	},
 	{
@@ -587,12 +365,6 @@
 		"price": 2,
 		"category": "Nahrung",
 		"defname": "RC2_PickleBrine"
-	},
-	{
-		"abr": "c-130hercules",
-		"price": 17317,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Aeroplane_C130Hercules"
 	},
 	{
 		"abr": "cabbages",
@@ -643,46 +415,10 @@
 		"defname": "CeilingFan"
 	},
 	{
-		"abr": "ch-47chinook",
-		"price": 6192,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Helicopter_CH47Chinook"
-	},
-	{
-		"abr": "ch-53seastallion",
-		"price": 9325,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Helicopter_CH53SeaStallion"
-	},
-	{
-		"abr": "chemfuelpowerplant",
-		"price": 1558,
-		"category": "Oil",
-		"defname": "FuelPowerplant"
-	},
-	{
-		"abr": "chemfuelpump",
-		"price": 49,
-		"category": "Oil",
-		"defname": "ChemfuelHopper"
-	},
-	{
-		"abr": "chemfuelsiphon",
-		"price": 49,
-		"category": "Oil",
-		"defname": "ChemfuelSiphon"
-	},
-	{
 		"abr": "cherries",
 		"price": 3,
 		"category": "Raw fruits",
 		"defname": "RC2_RawCherries"
-	},
-	{
-		"abr": "chestwrap",
-		"price": 38,
-		"category": "Underwear",
-		"defname": "UnderWhere_Chestwrap"
 	},
 	{
 		"abr": "chickpeas",
@@ -723,7 +459,7 @@
 	{
 		"abr": "cochlea-implantat",
 		"price": 833,
-		"category": "Einfache Prothesen",
+		"category": "Prothetisch",
 		"defname": "CochlearImplant"
 	},
 	{
@@ -751,111 +487,9 @@
 		"defname": "RC2_RawCoffeeBeans"
 	},
 	{
-		"abr": "composite",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberComposite"
-	},
-	{
-		"abr": "compositeblack",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeBlack"
-	},
-	{
-		"abr": "compositeblue",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeBlue"
-	},
-	{
-		"abr": "compositegreen",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeGreen"
-	},
-	{
-		"abr": "compositeolive",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeOlive"
-	},
-	{
-		"abr": "compositeorange",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeOrange"
-	},
-	{
-		"abr": "compositered",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeRed"
-	},
-	{
-		"abr": "compositesand",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeSand"
-	},
-	{
-		"abr": "compositeviolet",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeViolet"
-	},
-	{
-		"abr": "compositewhite",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeWhite"
-	},
-	{
-		"abr": "compositeyellow",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeYellow"
-	},
-	{
-		"abr": "controlrodactuator",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ControlRodActuator"
-	},
-	{
-		"abr": "couchcenter",
-		"price": 375,
-		"category": "Möbel",
-		"defname": "Anon2CouchCenter"
-	},
-	{
-		"abr": "couchecke",
-		"price": 375,
-		"category": "Möbel",
-		"defname": "Anon2CouchCorner"
-	},
-	{
-		"abr": "coucheckeinvertiert",
-		"price": 375,
-		"category": "Möbel",
-		"defname": "Anon2CouchCornerInv"
-	},
-	{
-		"abr": "couchlinks",
-		"price": 375,
-		"category": "Möbel",
-		"defname": "Anon2CouchLeft"
-	},
-	{
-		"abr": "couchrechts",
-		"price": 375,
-		"category": "Möbel",
-		"defname": "Anon2CouchRight"
-	},
-	{
 		"abr": "cowboyhut",
 		"price": 94,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_CowboyHat"
 	},
 	{
@@ -881,18 +515,6 @@
 		"price": 2,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawCucumbers"
-	},
-	{
-		"abr": "depleteduranium",
-		"price": 13,
-		"category": "Rimatomics Product",
-		"defname": "DepletedUraniumPellets"
-	},
-	{
-		"abr": "dmcdelorean",
-		"price": 2250,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_TimeMachine_DeLorean"
 	},
 	{
 		"abr": "doomsday-raketenwerfer",
@@ -925,12 +547,6 @@
 		"defname": "RC2_DriedMeat"
 	},
 	{
-		"abr": "driveactuator",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "DriveActuator"
-	},
-	{
 		"abr": "drogenlabor",
 		"price": 742,
 		"category": "Produktion",
@@ -947,12 +563,6 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Dromedary"
-	},
-	{
-		"abr": "dusabotround",
-		"price": 83,
-		"category": "Sabot Rounds",
-		"defname": "RailgunSabotDU"
 	},
 	{
 		"abr": "durians",
@@ -1009,18 +619,6 @@
 		"defname": "Meat_Squirrel"
 	},
 	{
-		"abr": "einfachefußprothese",
-		"price": 667,
-		"category": "Einfache Prothesen",
-		"defname": "SimpleProstheticFoot"
-	},
-	{
-		"abr": "einfachehandprothese",
-		"price": 750,
-		"category": "Einfache Prothesen",
-		"defname": "SimpleProstheticHand"
-	},
-	{
 		"abr": "einfachemahlzeit",
 		"price": 25,
 		"category": "Mahlzeiten",
@@ -1029,7 +627,7 @@
 	{
 		"abr": "einfacherhelm",
 		"price": 153,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_SimpleHelmet"
 	},
 	{
@@ -1111,15 +709,9 @@
 		"defname": "ToiletAdvStuff"
 	},
 	{
-		"abr": "embraerphenom300",
-		"price": 4883,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Aeroplane_EmbraerPhenomPrivateJet"
-	},
-	{
 		"abr": "emp-granate",
 		"price": 92,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_EMP"
 	},
 	{
@@ -1155,32 +747,20 @@
 	{
 		"abr": "energierüstung",
 		"price": 3392,
-		"category": "Kleidung",
+		"category": "Rüstung",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "energierüstungshelm",
 		"price": 1058,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_PowerArmorHelmet"
-	},
-	{
-		"abr": "ers",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ERS"
 	},
 	{
 		"abr": "escargo",
 		"price": 47,
 		"category": "Mahlzeiten",
 		"defname": "MealEscargot"
-	},
-	{
-		"abr": "exoskeletonsuit",
-		"price": 7500,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "ExoskeletonSuit"
 	},
 	{
 		"abr": "faultierfleisch",
@@ -1211,66 +791,6 @@
 		"price": 525,
 		"category": "Entspannung",
 		"defname": "TubeTelevision"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_I_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_II_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_III_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_IV_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_V_disabled"
-	},
-	{
-		"abr": "fertigungsroboter(i)basisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_I"
-	},
-	{
-		"abr": "fertigungsroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_II"
-	},
-	{
-		"abr": "fertigungsroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_III"
-	},
-	{
-		"abr": "fertigungsroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_IV"
-	},
-	{
-		"abr": "fertigungsroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Crafter_V"
 	},
 	{
 		"abr": "figs",
@@ -1345,18 +865,6 @@
 		"defname": "Leather_Fox"
 	},
 	{
-		"abr": "fuelrods",
-		"price": 2000,
-		"category": "Nuclear fuel",
-		"defname": "FuelRods"
-	},
-	{
-		"abr": "fuelrodsmox",
-		"price": 4167,
-		"category": "Nuclear fuel",
-		"defname": "FuelRodsMOX"
-	},
-	{
 		"abr": "gazelle",
 		"price": 250,
 		"category": "Animal",
@@ -1375,24 +883,6 @@
 		"defname": "FreezerUnit"
 	},
 	{
-		"abr": "gehirnstimulator",
-		"price": 1667,
-		"category": "Ersatzorgane",
-		"defname": "BrainStimulator"
-	},
-	{
-		"abr": "gepolsterterstuhl",
-		"price": 195,
-		"category": "Möbel",
-		"defname": "Anon2CushionedChair"
-	},
-	{
-		"abr": "gewebedrucker",
-		"price": 3900,
-		"category": "Produktion",
-		"defname": "TableOrgans"
-	},
-	{
 		"abr": "gladius",
 		"price": 215,
 		"category": "Nahkampfwaffen",
@@ -1401,7 +891,7 @@
 	{
 		"abr": "glücklichmacher",
 		"price": 7500,
-		"category": "Synthetische Organe",
+		"category": "Prothetisch",
 		"defname": "Joywire"
 	},
 	{
@@ -1415,12 +905,6 @@
 		"price": 17,
 		"category": "Rohstoffe",
 		"defname": "Gold"
-	},
-	{
-		"abr": "goldenesauge",
-		"price": 500,
-		"category": "Einfache Prothesen",
-		"defname": "GoldenEye"
 	},
 	{
 		"abr": "granitblöcke",
@@ -1471,12 +955,6 @@
 		"defname": "Leather_Panthera"
 	},
 	{
-		"abr": "hakenhand",
-		"price": 192,
-		"category": "Grundlegende Prothesen",
-		"defname": "HookHand"
-	},
-	{
 		"abr": "hardtack",
 		"price": 0,
 		"category": "Mahlzeiten",
@@ -1497,7 +975,7 @@
 	{
 		"abr": "he-granate",
 		"price": 92,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_HighExplosive"
 	},
 	{
@@ -1549,12 +1027,6 @@
 		"defname": "Heart"
 	},
 	{
-		"abr": "herzersatz",
-		"price": 1417,
-		"category": "Ersatzorgane",
-		"defname": "SurrogateHeart"
-	},
-	{
 		"abr": "heu",
 		"price": 1,
 		"category": "Nahrung",
@@ -1589,18 +1061,6 @@
 		"price": 2,
 		"category": "Rohstoffe",
 		"defname": "WoodLog"
-	},
-	{
-		"abr": "holzbein",
-		"price": 167,
-		"category": "Grundlegende Prothesen",
-		"defname": "PegLeg"
-	},
-	{
-		"abr": "hölzernerfuß",
-		"price": 42,
-		"category": "Grundlegende Prothesen",
-		"defname": "WoodenFoot"
 	},
 	{
 		"abr": "holz-heizkessel",
@@ -1675,28 +1135,10 @@
 		"defname": "Meat_Husky"
 	},
 	{
-		"abr": "hydraulischerkiefer",
-		"price": 333,
-		"category": "Einfache Prothesen",
-		"defname": "HydraulicJaw"
-	},
-	{
-		"abr": "hyperweaverefiner",
-		"price": 2075,
-		"category": "Oil",
-		"defname": "HyperweaveRefiner"
-	},
-	{
 		"abr": "ikwa",
 		"price": 197,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Ikwa"
-	},
-	{
-		"abr": "improvedcabinet",
-		"price": 917,
-		"category": "Verschiedenes",
-		"defname": "ToolCabinetA"
 	},
 	{
 		"abr": "insektengelee",
@@ -1747,12 +1189,6 @@
 		"defname": "BlocksLimestone"
 	},
 	{
-		"abr": "kamelhaar",
-		"price": 4,
-		"category": "Textilien",
-		"defname": "WoolCamel"
-	},
-	{
 		"abr": "kamelhaut",
 		"price": 4,
 		"category": "Leder",
@@ -1789,28 +1225,10 @@
 		"defname": "Meat_Cat"
 	},
 	{
-		"abr": "ki-chip",
-		"price": 7500,
-		"category": "Synthetische Organe",
-		"defname": "AIChip"
-	},
-	{
-		"abr": "kiefer",
-		"price": 833,
-		"category": "Natürlich",
-		"defname": "Jaw"
-	},
-	{
 		"abr": "ki-kern",
 		"price": 6667,
 		"category": "Gegenstände",
 		"defname": "AIPersonaCore"
-	},
-	{
-		"abr": "kitchencupboard",
-		"price": 176,
-		"category": "Verschiedenes",
-		"defname": "KitchenCupboard"
 	},
 	{
 		"abr": "kleintiertoilette",
@@ -1849,28 +1267,10 @@
 		"defname": "Dresser"
 	},
 	{
-		"abr": "kommode",
-		"price": 172,
-		"category": "Möbel",
-		"defname": "Anon2Dresser"
-	},
-	{
 		"abr": "königlichesbett",
 		"price": 1467,
 		"category": "Möbel",
 		"defname": "RoyalBed"
-	},
-	{
-		"abr": "königlichesnachttisch",
-		"price": 358,
-		"category": "Möbel",
-		"defname": "Anon2RoyalEndTable"
-	},
-	{
-		"abr": "königlichesnachttisch(lampe)",
-		"price": 392,
-		"category": "Möbel",
-		"defname": "Anon2RoyalEndTableLight"
 	},
 	{
 		"abr": "kraftstoff",
@@ -1893,74 +1293,14 @@
 	{
 		"abr": "kriegsmaske",
 		"price": 101,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_WarMask"
 	},
 	{
 		"abr": "kriegsschleier",
 		"price": 75,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_WarVeil"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_I_disabled"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_II_disabled"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_III_disabled"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_IV_disabled"
-	},
-	{
-		"abr": "küchenroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_V_disabled"
-	},
-	{
-		"abr": "küchenroboter(i)basisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_I"
-	},
-	{
-		"abr": "küchenroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_II"
-	},
-	{
-		"abr": "küchenroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_III"
-	},
-	{
-		"abr": "küchenroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_IV"
-	},
-	{
-		"abr": "küchenroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Kitchen_V"
 	},
 	{
 		"abr": "kühlschrank",
@@ -1973,30 +1313,6 @@
 		"price": 129,
 		"category": "Möbel",
 		"defname": "SunLamp"
-	},
-	{
-		"abr": "künstlichenase",
-		"price": 500,
-		"category": "Einfache Prothesen",
-		"defname": "ArtificialNose"
-	},
-	{
-		"abr": "künstlicheniere",
-		"price": 2917,
-		"category": "Synthetische Organe",
-		"defname": "SyntheticKidney"
-	},
-	{
-		"abr": "künstlichesbecken",
-		"price": 750,
-		"category": "Einfache Prothesen",
-		"defname": "ArtificialPelvis"
-	},
-	{
-		"abr": "künstlichesschlüsselbein",
-		"price": 167,
-		"category": "Einfache Prothesen",
-		"defname": "ArtificialClavicle"
 	},
 	{
 		"abr": "kurzbogen",
@@ -2047,12 +1363,6 @@
 		"defname": "Liver"
 	},
 	{
-		"abr": "leberersatz",
-		"price": 1250,
-		"category": "Ersatzorgane",
-		"defname": "SurrogateLiver"
-	},
-	{
 		"abr": "leckeremahlzeit",
 		"price": 33,
 		"category": "Mahlzeiten",
@@ -2095,28 +1405,10 @@
 		"defname": "Gun_LMG"
 	},
 	{
-		"abr": "lensmodule",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "LenseModule"
-	},
-	{
 		"abr": "leuchtkapsel",
 		"price": 83,
 		"category": "Spezial",
 		"defname": "GlowPod"
-	},
-	{
-		"abr": "lichtrezeptor",
-		"price": 792,
-		"category": "Einfache Prothesen",
-		"defname": "LightReceptor"
-	},
-	{
-		"abr": "lifesupportsystem",
-		"price": 925,
-		"category": "Verschiedenes",
-		"defname": "QE_LifeSupportSystem"
 	},
 	{
 		"abr": "lobster",
@@ -2125,51 +1417,15 @@
 		"defname": "Lobster"
 	},
 	{
-		"abr": "logikschaltkreis(anti-logik)",
-		"price": 17967,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_V"
-	},
-	{
-		"abr": "logikschaltkreis(einfach)",
-		"price": 775,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_I"
-	},
-	{
-		"abr": "logikschaltkreis(erweitert)",
-		"price": 8817,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_IV"
-	},
-	{
-		"abr": "logikschaltkreis(grundlegend)",
-		"price": 1825,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_II"
-	},
-	{
-		"abr": "logikschaltkreis(mittel)",
-		"price": 4158,
-		"category": "Gegenstände",
-		"defname": "RPP_Matrix_III"
-	},
-	{
-		"abr": "loincloth",
-		"price": 38,
-		"category": "Underwear",
-		"defname": "UnderWhere_Loincloth"
-	},
-	{
 		"abr": "löschschaumgranate",
 		"price": 92,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_Firefoam"
 	},
 	{
 		"abr": "löschschaumwerfer",
 		"price": 300,
-		"category": "Verschiedenes",
+		"category": "Diverses",
 		"defname": "FirefoamPopper"
 	},
 	{
@@ -2191,28 +1447,10 @@
 		"defname": "Lung"
 	},
 	{
-		"abr": "lungenersatz",
-		"price": 1250,
-		"category": "Ersatzorgane",
-		"defname": "SurrogateLung"
-	},
-	{
 		"abr": "luziferium",
 		"price": 200,
 		"category": "Drogen",
 		"defname": "Luciferium"
-	},
-	{
-		"abr": "magen",
-		"price": 1667,
-		"category": "Natürlich",
-		"defname": "Stomach"
-	},
-	{
-		"abr": "magenersatz",
-		"price": 1250,
-		"category": "Ersatzorgane",
-		"defname": "SurrogateStomach"
 	},
 	{
 		"abr": "mais",
@@ -2227,22 +1465,10 @@
 		"defname": "BlocksMarble"
 	},
 	{
-		"abr": "mechaniccabinet",
-		"price": 1558,
-		"category": "Verschiedenes",
-		"defname": "ToolCabinetB"
-	},
-	{
 		"abr": "mechanikwerkbank",
 		"price": 758,
 		"category": "Produktion",
 		"defname": "TableMachining"
-	},
-	{
-		"abr": "mechanizedarmorrack",
-		"price": 575,
-		"category": "Möbel",
-		"defname": "ArmorRacks_MechanizedArmorRack"
 	},
 	{
 		"abr": "medizin",
@@ -2251,15 +1477,9 @@
 		"defname": "MedicineIndustrial"
 	},
 	{
-		"abr": "medizinischesrippen-implantat",
-		"price": 1250,
-		"category": "Bionische Gliedmaßen",
-		"defname": "MedicalRib"
-	},
-	{
 		"abr": "melone",
 		"price": 77,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_BowlerHat"
 	},
 	{
@@ -2267,12 +1487,6 @@
 		"price": 2,
 		"category": "Raw fruits",
 		"defname": "RC2_RawMelons"
-	},
-	{
-		"abr": "mendingarmorrack",
-		"price": 1125,
-		"category": "Möbel",
-		"defname": "ArmorRacks_MendingArmorRack"
 	},
 	{
 		"abr": "mensch",
@@ -2293,22 +1507,10 @@
 		"defname": "Leather_Human"
 	},
 	{
-		"abr": "meps",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "MEPS"
-	},
-	{
 		"abr": "messer",
 		"price": 111,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Knife"
-	},
-	{
-		"abr": "mh-6littlebird",
-		"price": 2642,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Helicopter_MH6LittleBird"
 	},
 	{
 		"abr": "milch",
@@ -2335,15 +1537,9 @@
 		"defname": "RimFridge_SingleRefrigerator"
 	},
 	{
-		"abr": "missilefuselage",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "MissileFuselage"
-	},
-	{
 		"abr": "modernerhelm",
 		"price": 442,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
@@ -2351,42 +1547,6 @@
 		"price": 408,
 		"category": "Granaten",
 		"defname": "Weapon_GrenadeMolotov"
-	},
-	{
-		"abr": "moppmask(desert)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskDesert"
-	},
-	{
-		"abr": "moppmask(snow)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskSnow"
-	},
-	{
-		"abr": "moppmask(woodland)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskWoodland"
-	},
-	{
-		"abr": "moppsuit(desert)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitDesert"
-	},
-	{
-		"abr": "moppsuit(snow)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitSnow"
-	},
-	{
-		"abr": "moppsuit(woodland)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitWoodland"
 	},
 	{
 		"abr": "mörser",
@@ -2419,15 +1579,9 @@
 		"defname": "WakeUp"
 	},
 	{
-		"abr": "musclestimulator",
-		"price": 5833,
-		"category": "Synthetische Organe",
-		"defname": "MuscleStimulator"
-	},
-	{
 		"abr": "mütze",
 		"price": 91,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_Tuque"
 	},
 	{
@@ -2435,18 +1589,6 @@
 		"price": 106,
 		"category": "Möbel",
 		"defname": "EndTable"
-	},
-	{
-		"abr": "nachttisch",
-		"price": 103,
-		"category": "Möbel",
-		"defname": "Anon2EndTable"
-	},
-	{
-		"abr": "nachttisch(lampe)",
-		"price": 135,
-		"category": "Möbel",
-		"defname": "Anon2EndTableLight"
 	},
 	{
 		"abr": "nähmaschine(elektrisch)",
@@ -2473,30 +1615,6 @@
 		"defname": "Hyperweave"
 	},
 	{
-		"abr": "napalm",
-		"price": 5,
-		"category": "Oil",
-		"defname": "Napalm"
-	},
-	{
-		"abr": "napalmrefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "NapalmRefiner"
-	},
-	{
-		"abr": "napalmshell",
-		"price": 92,
-		"category": "GW Granaten",
-		"defname": "Shell_Napalm"
-	},
-	{
-		"abr": "nase",
-		"price": 833,
-		"category": "Natürlich",
-		"defname": "Nose"
-	},
-	{
 		"abr": "nashorn",
 		"price": 1167,
 		"category": "Animal",
@@ -2515,22 +1633,10 @@
 		"defname": "Leather_Rhinoceros"
 	},
 	{
-		"abr": "neurotrainer-naniten",
-		"price": 1250,
-		"category": "Gegenstände",
-		"defname": "MechSerumNeurotrainer"
-	},
-	{
 		"abr": "neutramin",
 		"price": 10,
 		"category": "Hergestellt",
 		"defname": "Neutroamine"
-	},
-	{
-		"abr": "neutroaminerefiner",
-		"price": 1583,
-		"category": "Oil",
-		"defname": "NeutroamineRefiner"
 	},
 	{
 		"abr": "niere",
@@ -2539,94 +1645,10 @@
 		"defname": "Kidney"
 	},
 	{
-		"abr": "nierenersatz",
-		"price": 1250,
-		"category": "Ersatzorgane",
-		"defname": "SurrogateKidney"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_I_disabled"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_II_disabled"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_III_disabled"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_IV_disabled"
-	},
-	{
-		"abr": "notfallroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_V_disabled"
-	},
-	{
-		"abr": "notfallroboter(i)basisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_I"
-	},
-	{
-		"abr": "notfallroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_II"
-	},
-	{
-		"abr": "notfallroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_III"
-	},
-	{
-		"abr": "notfallroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_IV"
-	},
-	{
-		"abr": "notfallroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_ER_V"
-	},
-	{
-		"abr": "nuclearwarhead",
-		"price": 24000,
-		"category": "Rimatomics Product",
-		"defname": "FissionWarhead"
-	},
-	{
 		"abr": "oats",
 		"price": 2,
 		"category": "Raw grains",
 		"defname": "RC2_RawOats"
-	},
-	{
-		"abr": "ohr",
-		"price": 833,
-		"category": "Natürlich",
-		"defname": "Ear"
-	},
-	{
-		"abr": "ohrenbinde",
-		"price": 83,
-		"category": "Grundlegende Prothesen",
-		"defname": "EarBandage"
 	},
 	{
 		"abr": "ölheizkessel",
@@ -2643,7 +1665,7 @@
 	{
 		"abr": "orbitalesfunkfeuer",
 		"price": 185,
-		"category": "Verschiedenes",
+		"category": "Diverses",
 		"defname": "OrbitalTradeBeacon"
 	},
 	{
@@ -2657,12 +1679,6 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Panther"
-	},
-	{
-		"abr": "panties",
-		"price": 42,
-		"category": "Underwear",
-		"defname": "UnderWhere_Panties"
 	},
 	{
 		"abr": "parka",
@@ -2731,12 +1747,6 @@
 		"defname": "RC2_RawPineapples"
 	},
 	{
-		"abr": "pipelinevalve",
-		"price": 50,
-		"category": "Oil",
-		"defname": "pipelineValve"
-	},
-	{
 		"abr": "piranhacorpse",
 		"price": 12,
 		"category": "Fish corpses",
@@ -2757,7 +1767,7 @@
 	{
 		"abr": "plattenrüstung",
 		"price": 792,
-		"category": "Kleidung",
+		"category": "Rüstung",
 		"defname": "Apparel_PlateArmor"
 	},
 	{
@@ -2765,12 +1775,6 @@
 		"price": 2,
 		"category": "Raw fruits",
 		"defname": "RC2_RawPlums"
-	},
-	{
-		"abr": "plutonium",
-		"price": 100,
-		"category": "Rimatomics Product",
-		"defname": "Plutonium"
 	},
 	{
 		"abr": "pokertisch",
@@ -2797,21 +1801,9 @@
 		"defname": "RC2_RawPomegranates"
 	},
 	{
-		"abr": "potassiumiodide",
-		"price": 53,
-		"category": "Drogen",
-		"defname": "PotassiumIodide"
-	},
-	{
-		"abr": "powerarm",
-		"price": 12500,
-		"category": "Bionische Gliedmaßen",
-		"defname": "PowerArm"
-	},
-	{
 		"abr": "power-kralle",
 		"price": 6250,
-		"category": "Bionische Gliedmaßen",
+		"category": "Prothetisch",
 		"defname": "PowerClaw"
 	},
 	{
@@ -2875,24 +1867,6 @@
 		"defname": "RC2_RawPumpkins"
 	},
 	{
-		"abr": "putzroboterbasisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner"
-	},
-	{
-		"abr": "quadratischerblumentopf",
-		"price": 53,
-		"category": "Möbel",
-		"defname": "Anon2SquarePlantPot"
-	},
-	{
-		"abr": "quadratischeresszimmerstuhl",
-		"price": 186,
-		"category": "Möbel",
-		"defname": "Anon2SquareDiningChair"
-	},
-	{
 		"abr": "quernstone",
 		"price": 173,
 		"category": "Produktion",
@@ -2903,24 +1877,6 @@
 		"price": 3,
 		"category": "Raw grains",
 		"defname": "RC2_RawQuinoa"
-	},
-	{
-		"abr": "r.t.g",
-		"price": 4333,
-		"category": "Nuclear",
-		"defname": "RimatomicsRTG"
-	},
-	{
-		"abr": "radiationmask",
-		"price": 244,
-		"category": "Hazmat",
-		"defname": "Apparel_RadiationMask"
-	},
-	{
-		"abr": "radiationsuit",
-		"price": 383,
-		"category": "Hazmat",
-		"defname": "Apparel_RadiationSuit"
 	},
 	{
 		"abr": "ratte",
@@ -2965,70 +1921,10 @@
 		"defname": "Bow_Recurve"
 	},
 	{
-		"abr": "refineryunloadingbay",
-		"price": 49,
-		"category": "Oil",
-		"defname": "RefineryLoadingBay"
-	},
-	{
 		"abr": "regal",
 		"price": 104,
 		"category": "Möbel",
 		"defname": "Shelf"
-	},
-	{
-		"abr": "reinigungsbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_II_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_III_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_IV_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_V_disabled"
-	},
-	{
-		"abr": "reinigungsroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner_II"
-	},
-	{
-		"abr": "reinigungsroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner_III"
-	},
-	{
-		"abr": "reinigungsroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner_IV"
-	},
-	{
-		"abr": "reinigungsroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Cleaner_V"
 	},
 	{
 		"abr": "reis",
@@ -3053,12 +1949,6 @@
 		"price": 425,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_BoltActionRifle"
-	},
-	{
-		"abr": "resourceconsole",
-		"price": 642,
-		"category": "Oil",
-		"defname": "ResourceConsole"
 	},
 	{
 		"abr": "revolver",
@@ -3103,24 +1993,6 @@
 		"defname": "Meat_Cow"
 	},
 	{
-		"abr": "roboterkomponente",
-		"price": 333,
-		"category": "Gegenstände",
-		"defname": "RPP_Component"
-	},
-	{
-		"abr": "roboterwerkbank",
-		"price": 1475,
-		"category": "Produktion",
-		"defname": "Table_RPP_RoboticsBench"
-	},
-	{
-		"abr": "rocketengine",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "RocketEngine"
-	},
-	{
 		"abr": "rollermill",
 		"price": 350,
 		"category": "Produktion",
@@ -3137,12 +2009,6 @@
 		"price": 417,
 		"category": "Animal",
 		"defname": "Deer"
-	},
-	{
-		"abr": "sabotround",
-		"price": 17,
-		"category": "Sabot Rounds",
-		"defname": "RailgunSabot"
 	},
 	{
 		"abr": "salmoncorpse",
@@ -3163,12 +2029,6 @@
 		"defname": "plumbingValve"
 	},
 	{
-		"abr": "scad",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "SCAD"
-	},
-	{
 		"abr": "schachtisch",
 		"price": 281,
 		"category": "Möbel",
@@ -3183,7 +2043,7 @@
 	{
 		"abr": "schildgürtel",
 		"price": 650,
-		"category": "Kleidung",
+		"category": "Rüstung",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
@@ -3235,15 +2095,9 @@
 		"defname": "ElectricSmelter"
 	},
 	{
-		"abr": "schmerzstillendesrippen-implantat",
-		"price": 1333,
-		"category": "Bionische Gliedmaßen",
-		"defname": "PainkillerRib"
-	},
-	{
 		"abr": "schmerzstopper",
 		"price": 7500,
-		"category": "Synthetische Organe",
+		"category": "Prothetisch",
 		"defname": "Painstopper"
 	},
 	{
@@ -3291,19 +2145,19 @@
 	{
 		"abr": "schutzhose",
 		"price": 375,
-		"category": "Kleidung",
+		"category": "Rüstung",
 		"defname": "Apparel_FlakPants"
 	},
 	{
 		"abr": "schutzjacke",
 		"price": 483,
-		"category": "Kleidung",
+		"category": "Rüstung",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "schutzweste",
 		"price": 375,
-		"category": "Kleidung",
+		"category": "Rüstung",
 		"defname": "Apparel_FlakVest"
 	},
 	{
@@ -3341,18 +2195,6 @@
 		"price": 6,
 		"category": "Leder",
 		"defname": "Leather_Heavy"
-	},
-	{
-		"abr": "scientistcabinet",
-		"price": 2425,
-		"category": "Verschiedenes",
-		"defname": "ToolCabinetC"
-	},
-	{
-		"abr": "scytherblade",
-		"price": 2500,
-		"category": "Bionische Gliedmaßen",
-		"defname": "ScytherBlade"
 	},
 	{
 		"abr": "seacucumber",
@@ -3523,12 +2365,6 @@
 		"defname": "Steel"
 	},
 	{
-		"abr": "stählernerarm",
-		"price": 333,
-		"category": "Grundlegende Prothesen",
-		"defname": "SteelArm"
-	},
-	{
 		"abr": "stammeskleidung",
 		"price": 211,
 		"category": "Kleidung",
@@ -3537,7 +2373,7 @@
 	{
 		"abr": "stammeskopftuch",
 		"price": 203,
-		"category": "Kopfbekleidung",
+		"category": "Kopfbedeckung",
 		"defname": "Apparel_TribalHeaddress"
 	},
 	{
@@ -3569,42 +2405,6 @@
 		"price": 65,
 		"category": "Möbel",
 		"defname": "StandingLamp_Red"
-	},
-	{
-		"abr": "stehleuchte(cyan)",
-		"price": 49,
-		"category": "Möbel",
-		"defname": "StandingLamp_Aqua"
-	},
-	{
-		"abr": "stehleuchte(gelb)",
-		"price": 49,
-		"category": "Möbel",
-		"defname": "StandingLamp_Yellow"
-	},
-	{
-		"abr": "stehleuchte(hellgrün)",
-		"price": 49,
-		"category": "Möbel",
-		"defname": "StandingLamp_Lime"
-	},
-	{
-		"abr": "stehleuchte(lila)",
-		"price": 49,
-		"category": "Möbel",
-		"defname": "StandingLamp_Purple"
-	},
-	{
-		"abr": "stehleuchte(magenta)",
-		"price": 49,
-		"category": "Möbel",
-		"defname": "StandingLamp_Magenta"
-	},
-	{
-		"abr": "stehleuchte(orange)",
-		"price": 49,
-		"category": "Möbel",
-		"defname": "StandingLamp_Orange"
 	},
 	{
 		"abr": "steinbock",
@@ -3655,12 +2455,6 @@
 		"defname": "DiningChair"
 	},
 	{
-		"abr": "stummgeschalteterkiefer",
-		"price": 1000,
-		"category": "Bionische Gliedmaßen",
-		"defname": "SilentJaw"
-	},
-	{
 		"abr": "sturgeoncorpse",
 		"price": 42,
 		"category": "Fish corpses",
@@ -3696,882 +2490,6 @@
 		"category": "Pflanzenmasse",
 		"defname": "RC2_RawSugarcane"
 	},
-	{
-		"abr": "surgicalinstruments",
-		"price": 792,
-		"category": "Verschiedenes",
-		"defname": "SurgicalInstruments"
-	},
-	{
-		"abr": "surgicallamp",
-		"price": 198,
-		"category": "Verschiedenes",
-		"defname": "SurgicalLamp"
-	},
-	{
-		"abr": "sushi",
-		"price": 47,
-		"category": "Mahlzeiten",
-		"defname": "MealSushi"
-	},
-	{
-		"abr": "syngarn",
-		"price": 7,
-		"category": "Textilien",
-		"defname": "Synthread"
-	},
-	{
-		"abr": "synthamide",
-		"price": 9,
-		"category": "Textilien",
-		"defname": "Synthamide"
-	},
-	{
-		"abr": "synthamiderefiner",
-		"price": 1167,
-		"category": "Oil",
-		"defname": "SynthamideRefiner"
-	},
-	{
-		"abr": "synthetischeleber",
-		"price": 2917,
-		"category": "Synthetische Organe",
-		"defname": "SyntheticLiver"
-	},
-	{
-		"abr": "synthetischelunge",
-		"price": 2917,
-		"category": "Synthetische Organe",
-		"defname": "SyntheticLung"
-	},
-	{
-		"abr": "synthetischermagen",
-		"price": 2917,
-		"category": "Synthetische Organe",
-		"defname": "SyntheticStomach"
-	},
-	{
-		"abr": "synthetischesherz",
-		"price": 3333,
-		"category": "Synthetische Organe",
-		"defname": "SyntheticHeart"
-	},
-	{
-		"abr": "synthreadrefiner",
-		"price": 808,
-		"category": "Oil",
-		"defname": "SynthreadRefiner"
-	},
-	{
-		"abr": "synthylene",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "Synthylene"
-	},
-	{
-		"abr": "synthyleneblack",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneBlack"
-	},
-	{
-		"abr": "synthyleneblue",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneBlue"
-	},
-	{
-		"abr": "synthylenegreen",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneGreen"
-	},
-	{
-		"abr": "synthyleneolive",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneOlive"
-	},
-	{
-		"abr": "synthyleneorange",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneOrange"
-	},
-	{
-		"abr": "synthylenered",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneRed"
-	},
-	{
-		"abr": "synthylenerefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "SynthyleneRefiner"
-	},
-	{
-		"abr": "synthylenesand",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneSand"
-	},
-	{
-		"abr": "synthyleneviolet",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneViolet"
-	},
-	{
-		"abr": "synthylenewhite",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneWhite"
-	},
-	{
-		"abr": "synthyleneyellow",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneYellow"
-	},
-	{
-		"abr": "syrup",
-		"price": 7,
-		"category": "Raw sweets",
-		"defname": "RC2_Syrup"
-	},
-	{
-		"abr": "tacticalcorneaimplant",
-		"price": 5833,
-		"category": "Synthetische Organe",
-		"defname": "TacticalCorneaImplant"
-	},
-	{
-		"abr": "tafel",
-		"price": 358,
-		"category": "Produktion",
-		"defname": "Blackboard"
-	},
-	{
-		"abr": "tanktop",
-		"price": 42,
-		"category": "Underwear",
-		"defname": "UnderWhere_Tanktop"
-	},
-	{
-		"abr": "targetingchip",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "TargetingChip"
-	},
-	{
-		"abr": "tealeaves",
-		"price": 2,
-		"category": "Pflanzenmasse",
-		"defname": "RC2_RawTeaLeaves"
-	},
-	{
-		"abr": "techprof-persona",
-		"price": 1667,
-		"category": "Gegenstände",
-		"defname": "TechprofSubpersonaCore"
-	},
-	{
-		"abr": "teleskop",
-		"price": 583,
-		"category": "Entspannung",
-		"defname": "Telescope"
-	},
-	{
-		"abr": "teufelsgarn",
-		"price": 9,
-		"category": "Textilien",
-		"defname": "DevilstrandCloth"
-	},
-	{
-		"abr": "thermostat",
-		"price": 86,
-		"category": "Hygiene",
-		"defname": "Thermostat"
-	},
-	{
-		"abr": "thickpottage",
-		"price": 25,
-		"category": "Mahlzeiten",
-		"defname": "RC2_ThickPottage"
-	},
-	{
-		"abr": "thinpottage",
-		"price": 20,
-		"category": "Mahlzeiten",
-		"defname": "RC2_ThinPottage"
-	},
-	{
-		"abr": "thrumbo",
-		"price": 6667,
-		"category": "Animal",
-		"defname": "Thrumbo"
-	},
-	{
-		"abr": "thrumbofell",
-		"price": 23,
-		"category": "Leder",
-		"defname": "Leather_Thrumbo"
-	},
-	{
-		"abr": "thrumbofleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Thrumbo"
-	},
-	{
-		"abr": "thrumbohorn",
-		"price": 1333,
-		"category": "Gegenstände",
-		"defname": "ThrumboHorn"
-	},
-	{
-		"abr": "tiefenbohrer",
-		"price": 908,
-		"category": "Produktion",
-		"defname": "DeepDrill"
-	},
-	{
-		"abr": "tierstörwelle",
-		"price": 1167,
-		"category": "Artefakte",
-		"defname": "PsychicAnimalPulser"
-	},
-	{
-		"abr": "timberwolf",
-		"price": 583,
-		"category": "Animal",
-		"defname": "Wolf_Timber"
-	},
-	{
-		"abr": "tinyfishcorpse",
-		"price": 8,
-		"category": "Fish corpses",
-		"defname": "RawFishTiny"
-	},
-	{
-		"abr": "tisch(1x2)",
-		"price": 98,
-		"category": "Möbel",
-		"defname": "Table1x2c"
-	},
-	{
-		"abr": "tisch(2x2)",
-		"price": 176,
-		"category": "Möbel",
-		"defname": "Table2x2c"
-	},
-	{
-		"abr": "tisch(2x4)",
-		"price": 333,
-		"category": "Möbel",
-		"defname": "Table2x4c"
-	},
-	{
-		"abr": "tisch(3x3)",
-		"price": 350,
-		"category": "Möbel",
-		"defname": "Table3x3c"
-	},
-	{
-		"abr": "tisch(winzig)",
-		"price": 54,
-		"category": "Möbel",
-		"defname": "Anon2TableTiny"
-	},
-	{
-		"abr": "tofu",
-		"price": 7,
-		"category": "Processed meat",
-		"defname": "RC2_Tofu"
-	},
-	{
-		"abr": "toilette",
-		"price": 72,
-		"category": "Hygiene",
-		"defname": "ToiletStuff"
-	},
-	{
-		"abr": "tomatoes",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawTomato"
-	},
-	{
-		"abr": "transportbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_disabled"
-	},
-	{
-		"abr": "transportbotbasisstation",
-		"price": 833,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler"
-	},
-	{
-		"abr": "transportroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_II_disabled"
-	},
-	{
-		"abr": "transportroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_III_disabled"
-	},
-	{
-		"abr": "transportroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_IV_disabled"
-	},
-	{
-		"abr": "transportroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_V_disabled"
-	},
-	{
-		"abr": "transportroboter(ii)basisstation",
-		"price": 2058,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler_II"
-	},
-	{
-		"abr": "transportroboter(iii)basisstation",
-		"price": 4533,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler_III"
-	},
-	{
-		"abr": "transportroboter(iv)basisstation",
-		"price": 9417,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler_IV"
-	},
-	{
-		"abr": "transportroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "AIRobot_RechargeStation_Hauler_V"
-	},
-	{
-		"abr": "tresen",
-		"price": 38,
-		"category": "Möbel",
-		"defname": "Anon2CounterA"
-	},
-	{
-		"abr": "tresenvoll",
-		"price": 38,
-		"category": "Möbel",
-		"defname": "Anon2CounterAFull"
-	},
-	{
-		"abr": "trimmedmeat",
-		"price": 2,
-		"category": "Nahrung",
-		"defname": "RC2_TrimmedMeat"
-	},
-	{
-		"abr": "trockenfutter",
-		"price": 2,
-		"category": "Nahrung",
-		"defname": "Kibble"
-	},
-	{
-		"abr": "truffles",
-		"price": 3,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawTruffles"
-	},
-	{
-		"abr": "truthahn",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Turkey"
-	},
-	{
-		"abr": "truthahnei(befr.)",
-		"price": 18,
-		"category": "Ei (befr.)",
-		"defname": "EggTurkeyFertilized"
-	},
-	{
-		"abr": "truthahnfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Turkey"
-	},
-	{
-		"abr": "t-shirt",
-		"price": 143,
-		"category": "Kleidung",
-		"defname": "Apparel_BasicShirt"
-	},
-	{
-		"abr": "turbineblades",
-		"price": 2,
-		"category": "Rimatomics Product",
-		"defname": "turbineBlade"
-	},
-	{
-		"abr": "überlebensration",
-		"price": 40,
-		"category": "Mahlzeiten",
-		"defname": "MealSurvivalPack"
-	},
-	{
-		"abr": "uh-1huey",
-		"price": 4150,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Helicopter_UH1Huey"
-	},
-	{
-		"abr": "uh-60blackhawk",
-		"price": 4633,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Helicopter_UH60BlackHawk"
-	},
-	{
-		"abr": "uncuredplasteel",
-		"price": 3,
-		"category": "Rohstoffe",
-		"defname": "UncuredPlasteel"
-	},
-	{
-		"abr": "uncuredsynthamidecomposite",
-		"price": 3,
-		"category": "Synthamide",
-		"defname": "UncuredComposite"
-	},
-	{
-		"abr": "unendlicherkraftstoffreaktor",
-		"price": 2500,
-		"category": "Spezial",
-		"defname": "InfiniteChemreactor"
-	},
-	{
-		"abr": "universalroboter(deaktiviert)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Omni_V_disabled"
-	},
-	{
-		"abr": "universalroboter(v)basisstation",
-		"price": 19092,
-		"category": "Möbel",
-		"defname": "RPP_RechargeStation_Omni_V"
-	},
-	{
-		"abr": "üppigemahlzeit",
-		"price": 67,
-		"category": "Mahlzeiten",
-		"defname": "MealLavish"
-	},
-	{
-		"abr": "uran",
-		"price": 10,
-		"category": "Rohstoffe",
-		"defname": "Uranium"
-	},
-	{
-		"abr": "uraniumpellets",
-		"price": 3,
-		"category": "Rimatomics Product",
-		"defname": "UraniumPellets"
-	},
-	{
-		"abr": "usbvbrandsatz",
-		"price": 192,
-		"category": "Sicherheit",
-		"defname": "TrapIED_Incendiary"
-	},
-	{
-		"abr": "usbvemp",
-		"price": 192,
-		"category": "Sicherheit",
-		"defname": "TrapIED_EMP"
-	},
-	{
-		"abr": "usbvgefechtskopf",
-		"price": 2008,
-		"category": "Sicherheit",
-		"defname": "TrapIED_AntigrainWarhead"
-	},
-	{
-		"abr": "usbvlöschschaum",
-		"price": 192,
-		"category": "Sicherheit",
-		"defname": "TrapIED_Firefoam"
-	},
-	{
-		"abr": "usbvsprengsatz",
-		"price": 192,
-		"category": "Sicherheit",
-		"defname": "TrapIED_HighExplosive"
-	},
-	{
-		"abr": "v-22osprey",
-		"price": 7692,
-		"category": "Verschiedenes",
-		"defname": "RHBuilding_Helicopter_MV22Osprey"
-	},
-	{
-		"abr": "vanometrischeenergiezelle",
-		"price": 2000,
-		"category": "Spezial",
-		"defname": "VanometricPowerCell"
-	},
-	{
-		"abr": "verbessertebionischehand",
-		"price": 5000,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedBionicHand"
-	},
-	{
-		"abr": "verbessertekünstlichewirbelsäule",
-		"price": 8333,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedBionicSpine"
-	},
-	{
-		"abr": "verbesserterbionischerarm",
-		"price": 8333,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedBionicArm"
-	},
-	{
-		"abr": "verbesserterbionischerfuß",
-		"price": 4583,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedBionicFoot"
-	},
-	{
-		"abr": "verbesserterbionischerkiefer",
-		"price": 5000,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedBionicJaw"
-	},
-	{
-		"abr": "verbesserterpowerarm",
-		"price": 16667,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedPowerArm"
-	},
-	{
-		"abr": "verbessertesbionischesauge",
-		"price": 5000,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedBionicEye"
-	},
-	{
-		"abr": "verbessertesbionischesbein",
-		"price": 8333,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedBionicLeg"
-	},
-	{
-		"abr": "verbessertesbionischesohr",
-		"price": 4583,
-		"category": "Verbesserte bionische Gliedmaßen",
-		"defname": "AdvancedBionicEar"
-	},
-	{
-		"abr": "verziertenblumentopf",
-		"price": 122,
-		"category": "Möbel",
-		"defname": "Anon2OrnatePlantPot"
-	},
-	{
-		"abr": "verziertenquadratischenblumentopf",
-		"price": 122,
-		"category": "Möbel",
-		"defname": "Anon2OrnateSquarePlantPot"
-	},
-	{
-		"abr": "vitalmonitor",
-		"price": 358,
-		"category": "Verschiedenes",
-		"defname": "VitalsMonitor"
-	},
-	{
-		"abr": "vogelfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Cassowary"
-	},
-	{
-		"abr": "vogelleder",
-		"price": 3,
-		"category": "Leder",
-		"defname": "Leather_Bird"
-	},
-	{
-		"abr": "walldualrefrigerator",
-		"price": 186,
-		"category": "Möbel",
-		"defname": "RimFridge_WallRefrigerator"
-	},
-	{
-		"abr": "walllight",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightVII"
-	},
-	{
-		"abr": "walllight((blue)old)",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightBlue"
-	},
-	{
-		"abr": "walllight((green)old)",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightGreen"
-	},
-	{
-		"abr": "walllight((red)old)",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightRed"
-	},
-	{
-		"abr": "walllight(blue)",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightBlueVII"
-	},
-	{
-		"abr": "walllight(green)",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightGreenVII"
-	},
-	{
-		"abr": "walllight(old)",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLight"
-	},
-	{
-		"abr": "walllight(red)",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightRedVII"
-	},
-	{
-		"abr": "wallsinglerefrigerator",
-		"price": 123,
-		"category": "Möbel",
-		"defname": "RimFridge_SingleWallRefrigerator"
-	},
-	{
-		"abr": "warg",
-		"price": 750,
-		"category": "Animal",
-		"defname": "Warg"
-	},
-	{
-		"abr": "wargfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Warg"
-	},
-	{
-		"abr": "waschbär",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Raccoon"
-	},
-	{
-		"abr": "waschbärenfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Raccoon"
-	},
-	{
-		"abr": "waschbecken",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "BasinStuff"
-	},
-	{
-		"abr": "wascheimer",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "WashBucket"
-	},
-	{
-		"abr": "waschmaschiene",
-		"price": 433,
-		"category": "Hygiene",
-		"defname": "WashingMachine"
-	},
-	{
-		"abr": "wasserschwein",
-		"price": 250,
-		"category": "Animal",
-		"defname": "Capybara"
-	},
-	{
-		"abr": "wasserschweinfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Capybara"
-	},
-	{
-		"abr": "waterbutt",
-		"price": 89,
-		"category": "Möbel",
-		"defname": "WaterButt"
-	},
-	{
-		"abr": "werkzeugschrank",
-		"price": 642,
-		"category": "Verschiedenes",
-		"defname": "ToolCabinet"
-	},
-	{
-		"abr": "wheatgrains",
-		"price": 1,
-		"category": "Pflanzenmasse",
-		"defname": "RC2_RawWheat"
-	},
-	{
-		"abr": "whirlpool(neutral)",
-		"price": 800,
-		"category": "Hygiene",
-		"defname": "HotTub"
-	},
-	{
-		"abr": "wildfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Deer"
-	},
-	{
-		"abr": "wildschwein",
-		"price": 333,
-		"category": "Animal",
-		"defname": "WildBoar"
-	},
-	{
-		"abr": "wolffleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Wolf_Timber"
-	},
-	{
-		"abr": "wolfsfell",
-		"price": 5,
-		"category": "Leder",
-		"defname": "Leather_Wolf"
-	},
-	{
-		"abr": "wurfsteinring",
-		"price": 67,
-		"category": "Entspannung",
-		"defname": "HoopstoneRing"
-	},
-	{
-		"abr": "wüstenfuchs",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Fox_Fennec"
-	},
-	{
-		"abr": "yams",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawYams"
-	},
-	{
-		"abr": "yayo",
-		"price": 35,
-		"category": "Drogen",
-		"defname": "Yayo"
-	},
-	{
-		"abr": "yorkiefleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_YorkshireTerrier"
-	},
-	{
-		"abr": "yorkshire-terrier",
-		"price": 167,
-		"category": "Animal",
-		"defname": "YorkshireTerrier"
-	},
-	{
-		"abr": "zahnprothese",
-		"price": 67,
-		"category": "Grundlegende Prothesen",
-		"defname": "denture"
-	},
-	{
-		"abr": "zielgerät:orbitalestrahlenwaffe",
-		"price": 2000,
-		"category": "Fernkampfwaffen",
-		"defname": "OrbitalTargeterPowerBeam"
-	},
-	{
-		"abr": "zielgerät:orbitalesbombardment",
-		"price": 2000,
-		"category": "Fernkampfwaffen",
-		"defname": "OrbitalTargeterBombardment"
-	},
-	{
-		"abr": "zielgerät:tornadogenerator",
-		"price": 1333,
-		"category": "Fernkampfwaffen",
-		"defname": "TornadoGenerator"
-	},
-	{
-		"abr": "gäste-bett",
-		"price": 155,
-		"category": "Möbel",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "gäste-doppelbett",
-		"price": 292,
-		"category": "Möbel",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "gäste-großerschlafsack",
-		"price": 290,
-		"category": "Möbel",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "gäste-königlichesbett",
-		"price": 1467,
-		"category": "Möbel",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "gäste-krankenbett",
-		"price": 667,
-		"category": "Möbel",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "gäste-schlafsack",
-		"price": 137,
-		"category": "Möbel",
-		"defname": "BedrollGuest"
-	}
 	],
-	"total": 769
+	"total": 583
 }
