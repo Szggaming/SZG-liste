@@ -1,6 +1,12 @@
 {
 	"items" : [
 	{
+		"abr": "affe",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Monkey"
+	},
+	{
 		"abr": "affenfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -1483,12 +1489,6 @@
 		"defname": "RC2_RawMelons"
 	},
 	{
-		"abr": "mensch",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Human"
-	},
-	{
 		"abr": "menschenfleisch",
 		"price": 1,
 		"category": "Fleisch",
@@ -2485,5 +2485,5 @@
 		"defname": "RC2_RawSugarcane"
 	},
 	],
-	"total": 583
+	"total": 563
 }
