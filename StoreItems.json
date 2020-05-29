@@ -1,12 +1,6 @@
 {
 	"items" : [
 	{
-		"abr": "affe",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Monkey"
-	},
-	{
 		"abr": "affenfleisch",
 		"price": 3,
 		"category": "Fleisch",
