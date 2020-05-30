@@ -7,6 +7,12 @@
 		"defname": "Monkey"
 	},
 	{
+		"abr": "affenfleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Monkey"
+	},
+	{
 		"abr": "agavenectar",
 		"price": 7,
 		"category": "Processed sweets",
@@ -23,6 +29,12 @@
 		"price": 583,
 		"category": "Animal",
 		"defname": "Alpaca"
+	},
+	{
+		"abr": "alpakafleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Alpaca"
 	},
 	{
 		"abr": "alpakawolle",
@@ -57,7 +69,7 @@
 	{
 		"abr": "antimateriegefechtskopf",
 		"price": 2000,
-		"category": "Mörsergranaten",
+		"category": "Moersergranaten",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
@@ -133,13 +145,13 @@
 		"defname": "RC2_RawBanana"
 	},
 	{
-		"abr": "bärenfell",
+		"abr": "baerenfell",
 		"price": 6,
 		"category": "Leder",
 		"defname": "Leather_Bear"
 	},
 	{
-		"abr": "bärenfleisch",
+		"abr": "baerenfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Bear_Grizzly"
@@ -201,13 +213,13 @@
 	{
 		"abr": "bett",
 		"price": 155,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "Bed"
 	},
 	{
 		"abr": "bett(tier)",
 		"price": 136,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "AnimalBed"
 	},
 	{
@@ -223,7 +235,7 @@
 		"defname": "Beer"
 	},
 	{
-		"abr": "bierwürze",
+		"abr": "bierwuerze",
 		"price": 4,
 		"category": "Hergestellt",
 		"defname": "Wort"
@@ -237,11 +249,11 @@
 	{
 		"abr": "billardtisch",
 		"price": 600,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "BilliardsTable"
 	},
 	{
-		"abr": "bionischewirbelsäule",
+		"abr": "bionischewirbelsaeule",
 		"price": 2917,
 		"category": "Bionisch",
 		"defname": "BionicSpine"
@@ -271,7 +283,7 @@
 		"defname": "BionicEar"
 	},
 	{
-		"abr": "biosolid-dünger",
+		"abr": "biosolid-duenger",
 		"price": 0,
 		"category": "Abfall",
 		"defname": "Biosolids"
@@ -291,7 +303,7 @@
 	{
 		"abr": "blumentopf",
 		"price": 68,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "PlantPot"
 	},
 	{
@@ -299,6 +311,30 @@
 		"price": 47,
 		"category": "Mahlzeiten",
 		"defname": "MealBoiledShellfish"
+	},
+	{
+		"abr": "boomalope",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Boomalope"
+	},
+	{
+		"abr": "boomalopenfleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Boomalope"
+	},
+	{
+		"abr": "boomratte",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Boomrat"
+	},
+	{
+		"abr": "boomrattenfleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Boomrat"
 	},
 	{
 		"abr": "brandgeschosswerfer",
@@ -309,7 +345,7 @@
 	{
 		"abr": "brandgranate",
 		"price": 92,
-		"category": "Mörsergranaten",
+		"category": "Moersergranaten",
 		"defname": "Shell_Incendiary"
 	},
 	{
@@ -359,6 +395,12 @@
 		"price": 25,
 		"category": "Fish corpses",
 		"defname": "Catfish"
+	},
+	{
+		"abr": "caviar",
+		"price": 67,
+		"category": "Mahlzeiten",
+		"defname": "Caviar"
 	},
 	{
 		"abr": "ceilingfan1x1",
@@ -483,7 +525,7 @@
 	{
 		"abr": "doppelbett",
 		"price": 292,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "DoubleBed"
 	},
 	{
@@ -565,6 +607,18 @@
 		"defname": "RC2_RawEggplants"
 	},
 	{
+		"abr": "eichhoernchen",
+		"price": 58,
+		"category": "Animal",
+		"defname": "Squirrel"
+	},
+	{
+		"abr": "eichhoernchenfleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Squirrel"
+	},
+	{
 		"abr": "einfachemahlzeit",
 		"price": 25,
 		"category": "Mahlzeiten",
@@ -589,7 +643,7 @@
 		"defname": "Leather_Plain"
 	},
 	{
-		"abr": "eisbär",
+		"abr": "eisbaer",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Bear_Polar"
@@ -627,7 +681,7 @@
 	{
 		"abr": "elefantenstoßzahn",
 		"price": 133,
-		"category": "Gegenstände",
+		"category": "Gegenstaende",
 		"defname": "ElephantTusk"
 	},
 	{
@@ -657,7 +711,7 @@
 	{
 		"abr": "emp-granate",
 		"price": 92,
-		"category": "Mörsergranaten",
+		"category": "Moersergranaten",
 		"defname": "Shell_EMP"
 	},
 	{
@@ -691,13 +745,13 @@
 		"defname": "Gun_ChargeLance"
 	},
 	{
-		"abr": "energierüstung",
+		"abr": "energieruestung",
 		"price": 3392,
-		"category": "Rüstung",
+		"category": "Ruestung",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
-		"abr": "energierüstungshelm",
+		"abr": "energieruestungshelm",
 		"price": 1058,
 		"category": "Kopfbedeckung",
 		"defname": "Apparel_PowerArmorHelmet"
@@ -733,7 +787,7 @@
 		"defname": "FlatscreenTelevision"
 	},
 	{
-		"abr": "fernseher(röhre)",
+		"abr": "fernseher(roehre)",
 		"price": 525,
 		"category": "Entspannung",
 		"defname": "TubeTelevision"
@@ -781,7 +835,7 @@
 		"defname": "Fountain"
 	},
 	{
-		"abr": "fruchtbarkeitsverstärker",
+		"abr": "fruchtbarkeitsverstaerker",
 		"price": 25,
 		"category": "Drogen",
 		"defname": "FertilityBooster"
@@ -835,7 +889,7 @@
 		"defname": "MeleeWeapon_Gladius"
 	},
 	{
-		"abr": "glücklichmacher",
+		"abr": "gluecklichmacher",
 		"price": 7500,
 		"category": "Prothetisch",
 		"defname": "Joywire"
@@ -853,9 +907,9 @@
 		"defname": "Gold"
 	},
 	{
-		"abr": "granitblöcke",
+		"abr": "granitbloecke",
 		"price": 2,
-		"category": "Steinblöcke",
+		"category": "Steinbloecke",
 		"defname": "BlocksGranite"
 	},
 	{
@@ -871,27 +925,27 @@
 		"defname": "RC2_GreenTea"
 	},
 	{
-		"abr": "grizzlybär",
+		"abr": "grizzlybaer",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
-		"abr": "großerheizkörper",
+		"abr": "großerheizkoerper",
 		"price": 252,
 		"category": "Hygiene",
 		"defname": "RadiatorLarge"
 	},
 	{
-		"abr": "großerkühlschrank",
+		"abr": "großerkuehlschrank",
 		"price": 307,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "RimFridge_QuadRefrigerator"
 	},
 	{
 		"abr": "großerschlafsack",
 		"price": 290,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "BedrollDouble"
 	},
 	{
@@ -921,13 +975,13 @@
 	{
 		"abr": "he-granate",
 		"price": 92,
-		"category": "Mörsergranaten",
+		"category": "Moersergranaten",
 		"defname": "Shell_HighExplosive"
 	},
 	{
 		"abr": "heiler-naniten",
 		"price": 2167,
-		"category": "Gegenstände",
+		"category": "Gegenstaende",
 		"defname": "MechSerumHealer"
 	},
 	{
@@ -937,7 +991,7 @@
 		"defname": "HotWaterTank"
 	},
 	{
-		"abr": "heizkörper",
+		"abr": "heizkoerper",
 		"price": 85,
 		"category": "Hygiene",
 		"defname": "RadiatorStuffed"
@@ -969,7 +1023,7 @@
 	{
 		"abr": "herz",
 		"price": 3333,
-		"category": "Natürlich",
+		"category": "Natuerlich",
 		"defname": "Heart"
 	},
 	{
@@ -993,11 +1047,11 @@
 	{
 		"abr": "hocker",
 		"price": 86,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "Stool"
 	},
 	{
-		"abr": "höhlenkäfer",
+		"abr": "hoehlenkaefer",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Spelopede"
@@ -1045,19 +1099,19 @@
 		"defname": "Chicken"
 	},
 	{
-		"abr": "hühnerei(befr.)",
+		"abr": "huehnerei(befr.)",
 		"price": 12,
 		"category": "Ei (befr.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
-		"abr": "hühnerei(unbefr.)",
+		"abr": "huehnerei(unbefr.)",
 		"price": 12,
 		"category": "Ei (unbefr.)",
 		"defname": "EggChickenUnfertilized"
 	},
 	{
-		"abr": "hühnerfleisch",
+		"abr": "huehnerfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Chicken"
@@ -1129,9 +1183,9 @@
 		"defname": "RC2_RawJuniperBerries"
 	},
 	{
-		"abr": "kalksteinblöcke",
+		"abr": "kalksteinbloecke",
 		"price": 2,
-		"category": "Steinblöcke",
+		"category": "Steinbloecke",
 		"defname": "BlocksLimestone"
 	},
 	{
@@ -1173,7 +1227,7 @@
 	{
 		"abr": "ki-kern",
 		"price": 6667,
-		"category": "Gegenstände",
+		"category": "Gegenstaende",
 		"defname": "AIPersonaCore"
 	},
 	{
@@ -1189,7 +1243,7 @@
 		"defname": "AirconIndoorUnit"
 	},
 	{
-		"abr": "knüppel",
+		"abr": "knueppel",
 		"price": 141,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Club"
@@ -1209,13 +1263,13 @@
 	{
 		"abr": "kommode",
 		"price": 179,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "Dresser"
 	},
 	{
-		"abr": "königlichesbett",
+		"abr": "koeniglichesbett",
 		"price": 1467,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "RoyalBed"
 	},
 	{
@@ -1227,11 +1281,11 @@
 	{
 		"abr": "krankenbett",
 		"price": 667,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "HospitalBed"
 	},
 	{
-		"abr": "kräutermedizin",
+		"abr": "kraeutermedizin",
 		"price": 17,
 		"category": "Medizin",
 		"defname": "MedicineHerbal"
@@ -1249,15 +1303,15 @@
 		"defname": "Apparel_WarVeil"
 	},
 	{
-		"abr": "kühlschrank",
+		"abr": "kuehlschrank",
 		"price": 186,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "RimFridge_Refrigerator"
 	},
 	{
-		"abr": "künstl.sonne",
+		"abr": "kuenstl.sonne",
 		"price": 129,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "SunLamp"
 	},
 	{
@@ -1279,7 +1333,7 @@
 		"defname": "LabradorRetriever"
 	},
 	{
-		"abr": "landschildkröte",
+		"abr": "landschildkroete",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Tortoise"
@@ -1305,7 +1359,7 @@
 	{
 		"abr": "leber",
 		"price": 3333,
-		"category": "Natürlich",
+		"category": "Natuerlich",
 		"defname": "Liver"
 	},
 	{
@@ -1363,13 +1417,13 @@
 		"defname": "Lobster"
 	},
 	{
-		"abr": "löschschaumgranate",
+		"abr": "loeschschaumgranate",
 		"price": 92,
-		"category": "Mörsergranaten",
+		"category": "Moersergranaten",
 		"defname": "Shell_Firefoam"
 	},
 	{
-		"abr": "löschschaumwerfer",
+		"abr": "loeschschaumwerfer",
 		"price": 300,
 		"category": "Diverses",
 		"defname": "FirefoamPopper"
@@ -1389,7 +1443,7 @@
 	{
 		"abr": "lunge",
 		"price": 2500,
-		"category": "Natürlich",
+		"category": "Natuerlich",
 		"defname": "Lung"
 	},
 	{
@@ -1405,9 +1459,9 @@
 		"defname": "RawCorn"
 	},
 	{
-		"abr": "marmorblöcke",
+		"abr": "marmorbloecke",
 		"price": 2,
-		"category": "Steinblöcke",
+		"category": "Steinbloecke",
 		"defname": "BlocksMarble"
 	},
 	{
@@ -1423,6 +1477,30 @@
 		"defname": "MedicineIndustrial"
 	},
 	{
+		"abr": "melone",
+		"price": 77,
+		"category": "Kopfbedeckung",
+		"defname": "Apparel_BowlerHat"
+	},
+	{
+		"abr": "melons",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawMelons"
+	},
+	{
+		"abr": "menschenfleisch",
+		"price": 1,
+		"category": "Fleisch",
+		"defname": "Meat_Human"
+	},
+	{
+		"abr": "menschenhaut",
+		"price": 7,
+		"category": "Leder",
+		"defname": "Leather_Human"
+	},
+	{
 		"abr": "messer",
 		"price": 111,
 		"category": "Nahkampfwaffen",
@@ -1435,7 +1513,7 @@
 		"defname": "Milk"
 	},
 	{
-		"abr": "minigeschütz",
+		"abr": "minigeschuetz",
 		"price": 508,
 		"category": "Sicherheit",
 		"defname": "Turret_MiniTurret"
@@ -1447,9 +1525,9 @@
 		"defname": "Gun_Minigun"
 	},
 	{
-		"abr": "mini-kühlschrank",
+		"abr": "mini-kuehlschrank",
 		"price": 123,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "RimFridge_SingleRefrigerator"
 	},
 	{
@@ -1465,7 +1543,7 @@
 		"defname": "Weapon_GrenadeMolotov"
 	},
 	{
-		"abr": "mörser",
+		"abr": "moerser",
 		"price": 708,
 		"category": "Sicherheit",
 		"defname": "Turret_Mortar"
@@ -1495,7 +1573,7 @@
 		"defname": "WakeUp"
 	},
 	{
-		"abr": "mütze",
+		"abr": "muetze",
 		"price": 91,
 		"category": "Kopfbedeckung",
 		"defname": "Apparel_Tuque"
@@ -1503,23 +1581,23 @@
 	{
 		"abr": "nachttisch",
 		"price": 106,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "EndTable"
 	},
 	{
-		"abr": "nähmaschine(elektrisch)",
+		"abr": "naehmaschine(elektrisch)",
 		"price": 533,
 		"category": "Produktion",
 		"defname": "ElectricTailoringBench"
 	},
 	{
-		"abr": "nährstoffpaste",
+		"abr": "naehrstoffpaste",
 		"price": 17,
 		"category": "Mahlzeiten",
 		"defname": "MealNutrientPaste"
 	},
 	{
-		"abr": "nähtisch",
+		"abr": "naehtisch",
 		"price": 262,
 		"category": "Produktion",
 		"defname": "HandTailoringBench"
@@ -1557,7 +1635,7 @@
 	{
 		"abr": "niere",
 		"price": 1667,
-		"category": "Natürlich",
+		"category": "Natuerlich",
 		"defname": "Kidney"
 	},
 	{
@@ -1567,7 +1645,7 @@
 		"defname": "RC2_RawOats"
 	},
 	{
-		"abr": "ölheizkessel",
+		"abr": "oelheizkessel",
 		"price": 425,
 		"category": "Hygiene",
 		"defname": "GasBoiler"
@@ -1681,9 +1759,9 @@
 		"defname": "Plasteel"
 	},
 	{
-		"abr": "plattenrüstung",
+		"abr": "plattenruestung",
 		"price": 792,
-		"category": "Rüstung",
+		"category": "Ruestung",
 		"defname": "Apparel_PlateArmor"
 	},
 	{
@@ -1695,7 +1773,7 @@
 	{
 		"abr": "pokertisch",
 		"price": 400,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "PokerTable"
 	},
 	{
@@ -1723,7 +1801,7 @@
 		"defname": "PowerClaw"
 	},
 	{
-		"abr": "präzisionsgewehr",
+		"abr": "praezisionsgewehr",
 		"price": 883,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_SniperRifle"
@@ -1747,7 +1825,7 @@
 		"defname": "PsychiteTea"
 	},
 	{
-		"abr": "psychoid-blätter",
+		"abr": "psychoid-blaetter",
 		"price": 3,
 		"category": "Pflanzenmasse",
 		"defname": "PsychoidLeaves"
@@ -1807,7 +1885,7 @@
 		"defname": "Meat_Rat"
 	},
 	{
-		"abr": "rauchblatt-blätter",
+		"abr": "rauchblatt-blaetter",
 		"price": 3,
 		"category": "Pflanzenmasse",
 		"defname": "SmokeleafLeaves"
@@ -1819,7 +1897,7 @@
 		"defname": "SmokeleafJoint"
 	},
 	{
-		"abr": "rauchwandgürtel",
+		"abr": "rauchwandguertel",
 		"price": 277,
 		"category": "Kleidung",
 		"defname": "Apparel_SmokepopBelt"
@@ -1827,7 +1905,7 @@
 	{
 		"abr": "reanimierer-naniten",
 		"price": 2833,
-		"category": "Gegenstände",
+		"category": "Gegenstaende",
 		"defname": "MechSerumResurrector"
 	},
 	{
@@ -1839,7 +1917,7 @@
 	{
 		"abr": "regal",
 		"price": 104,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "Shelf"
 	},
 	{
@@ -1885,7 +1963,7 @@
 		"defname": "Megasloth"
 	},
 	{
-		"abr": "riesenskarabäus",
+		"abr": "riesenskarabaeus",
 		"price": 167,
 		"category": "Animal",
 		"defname": "Megascarab"
@@ -1933,13 +2011,13 @@
 		"defname": "Salmon"
 	},
 	{
-		"abr": "sandsteinblöcke",
+		"abr": "sandsteinbloecke",
 		"price": 2,
-		"category": "Steinblöcke",
+		"category": "Steinbloecke",
 		"defname": "BlocksSandstone"
 	},
 	{
-		"abr": "sanitärventil",
+		"abr": "sanitaerventil",
 		"price": 50,
 		"category": "Hygiene",
 		"defname": "plumbingValve"
@@ -1947,29 +2025,29 @@
 	{
 		"abr": "schachtisch",
 		"price": 281,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "ChessTable"
 	},
 	{
-		"abr": "schieferblöcke",
+		"abr": "schieferbloecke",
 		"price": 2,
-		"category": "Steinblöcke",
+		"category": "Steinbloecke",
 		"defname": "BlocksSlate"
 	},
 	{
-		"abr": "schildgürtel",
+		"abr": "schildguertel",
 		"price": 650,
-		"category": "Rüstung",
+		"category": "Ruestung",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
-		"abr": "schildkrötenei(befr.)",
+		"abr": "schildkroetenei(befr.)",
 		"price": 38,
 		"category": "Ei (befr.)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
-		"abr": "schildkrötenfleisch",
+		"abr": "schildkroetenfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Tortoise"
@@ -1983,13 +2061,13 @@
 	{
 		"abr": "schlafkiste(tier)",
 		"price": 84,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "AnimalSleepingBox"
 	},
 	{
 		"abr": "schlafsack",
 		"price": 137,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "Bedroll"
 	},
 	{
@@ -2061,19 +2139,19 @@
 	{
 		"abr": "schutzhose",
 		"price": 375,
-		"category": "Rüstung",
+		"category": "Ruestung",
 		"defname": "Apparel_FlakPants"
 	},
 	{
 		"abr": "schutzjacke",
 		"price": 483,
-		"category": "Rüstung",
+		"category": "Ruestung",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "schutzweste",
 		"price": 375,
-		"category": "Rüstung",
+		"category": "Ruestung",
 		"defname": "Apparel_FlakVest"
 	},
 	{
@@ -2127,7 +2205,7 @@
 	{
 		"abr": "sessel",
 		"price": 450,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "Armchair"
 	},
 	{
@@ -2227,9 +2305,9 @@
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
-		"abr": "spielbrettfürur",
+		"abr": "spielbrettfuerur",
 		"price": 153,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "GameOfUrBoard"
 	},
 	{
@@ -2239,7 +2317,7 @@
 		"defname": "Weapon_GrenadeFrag"
 	},
 	{
-		"abr": "sprinkler(bewässerung)",
+		"abr": "sprinkler(bewaesserung)",
 		"price": 102,
 		"category": "Hygiene",
 		"defname": "IrrigationSprinkler"
@@ -2251,7 +2329,7 @@
 		"defname": "FireSprinkler"
 	},
 	{
-		"abr": "spülbecken",
+		"abr": "spuelbecken",
 		"price": 167,
 		"category": "Hygiene",
 		"defname": "KitchenSink"
@@ -2301,25 +2379,25 @@
 	{
 		"abr": "stehlampe",
 		"price": 65,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "StandingLamp"
 	},
 	{
 		"abr": "stehlampe(blau)",
 		"price": 65,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "StandingLamp_Blue"
 	},
 	{
-		"abr": "stehlampe(grün)",
+		"abr": "stehlampe(gruen)",
 		"price": 65,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "StandingLamp_Green"
 	},
 	{
 		"abr": "stehlampe(rot)",
 		"price": 65,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "StandingLamp_Red"
 	},
 	{
@@ -2367,7 +2445,7 @@
 	{
 		"abr": "stuhl",
 		"price": 198,
-		"category": "Möbel",
+		"category": "Moebel",
 		"defname": "DiningChair"
 	},
 	{
