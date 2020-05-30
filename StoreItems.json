@@ -1,16 +1,16 @@
 {
 	"items" : [
 	{
-		"abr": "affe",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Monkey"
+		"abr": "advancedcomponent",
+		"price": 333,
+		"category": "Manufactured",
+		"defname": "ComponentSpacer"
 	},
 	{
-		"abr": "affenfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Monkey"
+		"abr": "advancedhelmet",
+		"price": 442,
+		"category": "Headgear",
+		"defname": "Apparel_AdvancedHelmet"
 	},
 	],
 	"total": 2
