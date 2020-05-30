@@ -7,12 +7,6 @@
 		"defname": "Monkey"
 	},
 	{
-		"abr": "affenfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Monkey"
-	},
-	{
 		"abr": "agavenectar",
 		"price": 7,
 		"category": "Processed sweets",
@@ -29,12 +23,6 @@
 		"price": 583,
 		"category": "Animal",
 		"defname": "Alpaca"
-	},
-	{
-		"abr": "alpakafleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Alpaca"
 	},
 	{
 		"abr": "alpakawolle",
@@ -313,30 +301,6 @@
 		"defname": "MealBoiledShellfish"
 	},
 	{
-		"abr": "boomalope",
-		"price": 583,
-		"category": "Animal",
-		"defname": "Boomalope"
-	},
-	{
-		"abr": "boomalopenfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Boomalope"
-	},
-	{
-		"abr": "boomratte",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Boomrat"
-	},
-	{
-		"abr": "boomrattenfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Boomrat"
-	},
-	{
 		"abr": "brandgeschosswerfer",
 		"price": 508,
 		"category": "Fernkampfwaffen",
@@ -395,12 +359,6 @@
 		"price": 25,
 		"category": "Fish corpses",
 		"defname": "Catfish"
-	},
-	{
-		"abr": "caviar",
-		"price": 67,
-		"category": "Mahlzeiten",
-		"defname": "Caviar"
 	},
 	{
 		"abr": "ceilingfan1x1",
@@ -605,18 +563,6 @@
 		"price": 2,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawEggplants"
-	},
-	{
-		"abr": "eichhörnchen",
-		"price": 58,
-		"category": "Animal",
-		"defname": "Squirrel"
-	},
-	{
-		"abr": "eichhörnchenfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Squirrel"
 	},
 	{
 		"abr": "einfachemahlzeit",
@@ -1475,30 +1421,6 @@
 		"price": 30,
 		"category": "Medizin",
 		"defname": "MedicineIndustrial"
-	},
-	{
-		"abr": "melone",
-		"price": 77,
-		"category": "Kopfbedeckung",
-		"defname": "Apparel_BowlerHat"
-	},
-	{
-		"abr": "melons",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RC2_RawMelons"
-	},
-	{
-		"abr": "menschenfleisch",
-		"price": 1,
-		"category": "Fleisch",
-		"defname": "Meat_Human"
-	},
-	{
-		"abr": "menschenhaut",
-		"price": 7,
-		"category": "Leder",
-		"defname": "Leather_Human"
 	},
 	{
 		"abr": "messer",
